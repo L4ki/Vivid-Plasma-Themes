@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg12"
+   sodipodi:docname="accept_time_event.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-2.6440678"
+     inkscape:cy="8.0338983"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <defs
+     id="defs4">
+    <style
+       type="text/css"
+       id="style2">.ColorScheme-Text {
+        color:#d8dee9;
+      }</style>
+  </defs>
+  <path
+     class="ColorScheme-Text"
+     d="M 7.2499934,5.0000112 V 8.7500066 H 10.999989 V 8.0000075 H 7.9999925 V 5.0000112 Z"
+     fill="currentColor"
+     id="path6"
+     style="stroke-width:0.749999" />
+  <path
+     class="ColorScheme-Text"
+     d="M 7.9999925,2.000015 A 5.9999925,5.9999925 0 0 0 2,8.0000075 5.9999925,5.9999925 0 0 0 7.9999925,14 5.9999925,5.9999925 0 0 0 10.021465,13.63379 C 9.7676053,13.480183 9.5410381,13.285228 9.3520308,13.058106 A 5.2499934,5.2499934 0 0 1 8.0000075,13.250001 5.2499934,5.2499934 0 0 1 2.7500141,8.0000075 5.2499934,5.2499934 0 0 1 8.0000075,2.7500141 5.2499934,5.2499934 0 0 1 13.250001,8.0000075 5.2499934,5.2499934 0 0 1 13.058106,9.3520308 c 0.227122,0.1889998 0.422077,0.4155741 0.575684,0.6694342 A 5.9999925,5.9999925 0 0 0 14,7.9999925 5.9999925,5.9999925 0 0 0 8.0000075,2 Z"
+     fill="currentColor"
+     id="path8"
+     style="stroke-width:0.749999" />
+  <path
+     d="m 11.377369,9.3355983 c -1.127773,0 -2.0420107,0.9142377 -2.0420107,2.0420117 0,1.127773 0.9142377,2.042011 2.0420107,2.042011 1.127774,0 2.042012,-0.914238 2.042012,-2.042011 0,-1.127774 -0.914238,-2.0420117 -2.042012,-2.0420117 z M 11.085654,9.91903 h 0.583431 v 1.166864 h 1.166864 v 0.583432 h -1.166864 v 1.166863 H 11.085654 V 11.669326 H 9.9187901 v -0.583432 h 1.1668639 z"
+     color="#d8dee9"
+     fill="#d8dee9"
+     id="path10"
+     style="stroke-width:0.583432" />
+</svg>
