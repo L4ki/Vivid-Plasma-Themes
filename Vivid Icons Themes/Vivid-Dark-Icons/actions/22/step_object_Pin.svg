@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="step_object_Pin.svg"
+   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="34.863636"
+     inkscape:cx="11.014342"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#00ccff;stop-opacity:1"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#bc5fd3;stop-opacity:1"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <style
+       type="text/css"
+       id="style1">.ColorScheme-Text {
+        color:#d8dee9;
+      }</style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="5.6666999"
+       y1="18.428944"
+       x2="15.731064"
+       y2="4.0873532"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <path
+     d="m11 3c-2.9455 1.09e-5 -5.3333 2.3878-5.3333 5.3333 0.00209 0.63516 0.11762 1.2648 0.34115 1.8594 0.16178 0.44712 0.48803 0.94219 0.69271 1.2839l4.2995 7.5234 4.2995-7.5208c0.33761-0.42055 0.48392-0.86563 0.69531-1.2865 0.22264-0.5947 0.33728-1.2244 0.33854-1.8594-1.1e-5 -2.9455-2.3878-5.3333-5.3333-5.3333zm0 1.3333c1.2204 2.07e-5 2.374 0.55718 3.1328 1.513 0.16616 0.20897 0.31098 0.43405 0.43229 0.67188 0.24247 0.47689 0.38681 0.99758 0.42448 1.5312 0.0068 0.094465 0.01028 0.18914 0.01042 0.28385-3.13e-4 0.40087-0.06088 0.79942-0.17969 1.1823-0.06587 0.20779-0.14861 0.40986-0.24739 0.60417-0.01107 0.02442-0.02232 0.04873-0.03385 0.07292-0.6906 1.3154-2.0534 2.1397-3.5391 2.1406-1.4857-9.31e-4 -2.8485-0.82521-3.5391-2.1406-0.059307-0.11281-0.11319-0.2284-0.16146-0.34635l-0.00781-0.018229c-0.044028-0.11019-0.083129-0.22228-0.11719-0.33594-0.0053048-0.015593-0.010513-0.031218-0.015625-0.046875-0.029627-0.10655-0.054822-0.21428-0.075521-0.32292-0.0054043-0.022524-0.010613-0.045094-0.015625-0.067708-0.020441-0.11213-0.03608-0.22508-0.046875-0.33854-0.0018734-0.019085-0.0036095-0.038182-0.0052083-0.057292-0.0096284-0.10825-0.014841-0.21685-0.015625-0.32552 3.123e-4 -0.13308 0.0072654-0.26605 0.020833-0.39844 0.10748-1.0756 0.64574-2.062 1.4922-2.7344 0.20897-0.16616 0.43405-0.31098 0.67188-0.43229 0.56227-0.28607 1.1842-0.43509 1.8151-0.4349z"
+     id="path1"
+     style="fill:url(#linearGradient2)" />
+</svg>
