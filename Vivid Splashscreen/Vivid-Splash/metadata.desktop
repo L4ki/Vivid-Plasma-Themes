@@ -1,0 +1,19 @@
+[Desktop Entry]
+Comment=Vivid Splashscreen
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Vivid-Splash
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=l4k1987@gmail.com
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Vivid-Splash
+X-KDE-PluginInfo-Version=1.0
+X-Plasma-MainScript=defaults
+
