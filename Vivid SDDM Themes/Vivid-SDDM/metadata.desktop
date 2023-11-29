@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Vivid-SDDM
+Description=Vivid Login Screen (SDDM) Theme
+Author=l4k1
+License=GPLv3
+Type=sddm-theme
+Version=1.0
+Website=
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=l4k1987@gmail.com
+Theme-Id=Vivid-SDDM
+Theme-API=2.0
