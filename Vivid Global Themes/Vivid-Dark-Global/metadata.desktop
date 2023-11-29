@@ -1,0 +1,23 @@
+[Desktop Entry]
+Comment=Vivid-Dark Global Theme by l4k1
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Vivid-Dark-Global
+
+Type=Service
+
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=
+X-KDE-ParentApp=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Vivid-Dark-Global
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/L4ki/Vivid-Plasma-Themes
+X-KDE-fallbackPackage=org.kde.breezedark.desktop
+X-Plasma-MainScript=defaults
+X-Plasma-APIVersion=2
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/2102231,kns://colorschemes.knsrc/api.kde-look.org/2102230,kns://plasma-themes.knsrc/api.kde-look.org/2102246,kns://icons.knsrc/api.kde-look.org/2102240,kns://icons.knsrc/api.kde-look.org/2078427,kns://icons.knsrc/api.kde-look.org/2091068,kns://icons.knsrc/api.kde-look.org/2078422,kns://aurorae.knsrc/api.kde-look.org/2102235,kns://aurorae.knsrc/api.kde-look.org/2102234,kns://wallpaper.knsrc/api.kde-look.org//2102218,kns://wallpaper.knsrc/api.kde-look.org/2102214,kns://sddmtheme.knsrc/api.kde-look.org/2102227
