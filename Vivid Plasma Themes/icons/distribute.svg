@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   id="svg"
+   version="1.1"
+   width="100%"
+   height="100%"
+   sodipodi:docname="distribute.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     pagecolor="#02334b"
+     bordercolor="#000000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     id="namedview10"
+     showgrid="true"
+     inkscape:zoom="21.56359"
+     inkscape:cx="10.573378"
+     inkscape:cy="14.028276"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg"
+     inkscape:lockguides="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#02334b">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs81">
+    <style
+       id="current-color-scheme"
+       type="text/css" />
+  </defs>
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="distribute-horizontal-x"
+     transform="translate(-81,8)">
+    <rect
+       y="-5"
+       x="84"
+       height="16"
+       width="16"
+       id="rect3012"
+       style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:none" />
+    <g
+       id="layer1"
+       transform="translate(-297.85714,-548.07647)">
+      <path
+         class="ColorScheme-Text"
+         style="fill:#058bce;fill-opacity:1"
+         d="m 3,7 0,8 5,0 0,-8 -5,0 z m 11,0 0,8 5,0 0,-8 -5,0 z M 4,8 7,8 7,14 4,14 4,8 z m 11,0 3,0 0,6 -3,0 0,-6 z m -6,1 0,4 1,0 0,-1 2,0 0,1 1,0 0,-4 -1,0 0,1 -2,0 0,-1 -1,0 z"
+         transform="translate(378.85714,540.07647)"
+         id="rect4109" />
+    </g>
+  </g>
+</svg>
