@@ -32,3 +32,26 @@ Screenshot:
 ![4](https://github.com/L4ki/Vivid-Plasma-Themes/assets/45247573/95139e8a-5128-4d2c-8e2a-e94dc20a6074)
 
 ![5](https://github.com/L4ki/Vivid-Plasma-Themes/assets/45247573/a2572539-faf9-4b66-9a35-60e8b36b58f1)
+
+Changelog: 06.12.2023
+---------------------
+
+GTK-Theme
+----------
+
+Update: styles
+
+Icon Theme
+-----------
+
+Added new icons: apps 32, 48
+
+Aurorae Themes
+--------------
+
+Update: shade.svg
+
+Plasma Theme
+------------
+
+Added icon: telegram.svg
