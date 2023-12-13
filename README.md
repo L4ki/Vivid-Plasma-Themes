@@ -55,3 +55,26 @@ Plasma Theme
 ------------
 
 Added icon: telegram.svg
+
+Changelog: 13.12.2023
+---------------------
+
+GTK-Theme
+----------
+
+Update: gtkrc
+
+Icon Theme
+-----------
+
+Update icons: places
+
+Aurorae Themes
+--------------
+
+Update: Auroraerc
+
+Plasma Theme
+------------
+
+Update icon: telegram.svg
