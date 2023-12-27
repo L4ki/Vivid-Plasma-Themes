@@ -1,8 +1,8 @@
 import QtQuick 2.5
-
 Image {
     id: root
     source: "images/background.png"
+    fillMode: Image.PreserveAspectCrop
 
     property int stage
 
@@ -11,7 +11,6 @@ Image {
             introAnimation.running = true
         }
     }
-
     Item {
         id: content
         anchors.fill: parent
