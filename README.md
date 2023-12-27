@@ -101,3 +101,31 @@ Plasma Theme
 ------------
 
 Added widget: scrollwidget.svg
+
+Changelog: 27.12.2023
+---------------------
+
+GTK-Theme
+----------
+
+Update: gtk-4.0
+
+Icon Theme
+-----------
+
+Added new icons: apps 32, 48
+
+Aurorae Themes
+--------------
+
+Update: alldesktops.svg
+
+Plasma Theme
+------------
+
+Added icon: org.rnd2.cpupower_gui.svg
+
+Splashscreen
+------------
+
+Update: Splash.qml
