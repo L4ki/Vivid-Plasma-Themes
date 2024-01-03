@@ -129,3 +129,26 @@ Splashscreen
 ------------
 
 Update: Splash.qml
+
+Changelog:03.01.2024.
+---------------------
+
+GTK-Theme
+----------
+
+Update: gtk-3.0
+
+Icon Theme
+-----------
+
+Added new icons: apps 48
+
+Aurorae Themes
+--------------
+
+Update: decoration.svg
+
+Plasma Theme
+------------
+
+Added icon: krfb.svg
