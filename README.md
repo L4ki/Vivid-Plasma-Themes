@@ -130,7 +130,7 @@ Splashscreen
 
 Update: Splash.qml
 
-Changelog:03.01.2024.
+Changelog: 03.01.2024.
 ---------------------
 
 GTK-Theme
