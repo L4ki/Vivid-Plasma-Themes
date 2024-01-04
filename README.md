@@ -23,6 +23,10 @@ Download: https://www.pling.com/p/2110196
 Screenshot:
 -----------
 
+![1](https://github.com/L4ki/Vivid-Plasma-Themes/assets/45247573/90ebfb0c-c9f7-4b0d-bdce-3f753e3df7b9)
+
+![4](https://github.com/L4ki/Vivid-Plasma-Themes/assets/45247573/121bc7fd-5894-4e7a-9d7a-c67eadafe8d7)
+
 ![1](https://github.com/L4ki/Vivid-Plasma-Themes/assets/45247573/d61620b2-2504-46d2-9363-d9ca21f75ec5)
 
 ![2](https://github.com/L4ki/Vivid-Plasma-Themes/assets/45247573/3f0ddaa8-c4d2-46e6-a653-5e7c918cd8c7)
