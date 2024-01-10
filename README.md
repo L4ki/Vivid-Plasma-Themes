@@ -156,3 +156,27 @@ Plasma Theme
 ------------
 
 Added icon: krfb.svg
+
+
+Changelog: 10.01.2024.
+---------------------
+
+GTK-Theme
+----------
+
+Update: focus.png
+
+Icon Theme
+-----------
+
+Added new icons: apps 48
+
+Aurorae Themes
+--------------
+
+Update: decoration.svg
+
+Plasma Theme
+------------
+
+Added icon: skype.svg
