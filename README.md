@@ -158,7 +158,7 @@ Plasma Theme
 Added icon: krfb.svg
 
 
-Changelog: 10.01.2024.
+Changelog: 12.01.2024.
 ---------------------
 
 GTK-Theme
