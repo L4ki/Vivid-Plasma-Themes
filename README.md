@@ -180,3 +180,26 @@ Plasma Theme
 ------------
 
 Added icon: skype.svg
+
+Changelog: 19.01.2024.
+---------------------
+
+GTK-Theme
+----------
+
+Update: gtkrc
+
+Icon Theme
+-----------
+
+Added new icons: apps 48
+
+Aurorae Themes
+--------------
+
+Update: restore.svg
+
+Plasma Theme
+------------
+
+Update icon: go.svg, kgpg.svg, preferences.svg, widget.svg
