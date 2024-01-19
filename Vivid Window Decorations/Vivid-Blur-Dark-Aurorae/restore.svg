@@ -6,7 +6,7 @@
    version="1.1"
    style="enable-background:new"
    sodipodi:docname="restore.svg"
-   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -83,7 +83,7 @@
   <sodipodi:namedview
      inkscape:document-rotation="0"
      pagecolor="#ffffff"
-     bordercolor="#000000"
+     bordercolor="#030303"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -106,7 +106,7 @@
      inkscape:lockguides="false"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        id="grid1"
        units="px"
@@ -344,11 +344,11 @@
     <path
        d="m 38.932359,9.8999999 a 0.48278834,0.48278835 0 0 1 0.341174,0.1416221 l 5.693687,5.693682 5.69368,-5.693682 a 0.48278834,0.48278835 0 0 1 0.68234,0.682335 l -6.03486,6.034853 a 0.48278834,0.48278835 0 0 1 -0.68233,0 l -6.034859,-6.034853 a 0.48278834,0.48278835 0 0 1 0.341168,-0.8239571 z"
        id="path4-3-3-5-2-3-6"
-       style="fill:#ffffff;fill-opacity:0.45000002;stroke-width:0.160926;enable-background:new" />
+       style="fill:#ffffff;fill-opacity:0.45;stroke-width:0.160926;enable-background:new" />
     <path
        d="M 50.99041,11.840001 A 0.48278834,0.48278835 0 0 1 50.64923,11.698379 L 44.95555,6.0046976 39.261862,11.698379 a 0.48278834,0.48278835 0 0 1 -0.682339,-0.682335 l 6.034859,-6.0348524 a 0.48278834,0.48278835 0 0 1 0.682338,0 l 6.03485,6.0348524 a 0.48278834,0.48278835 0 0 1 -0.34116,0.823957 z"
        id="path4-36-6-3-6-6-8"
-       style="fill:#ffffff;fill-opacity:0.4544335;stroke-width:0.160926;enable-background:new" />
+       style="fill:#ffffff;fill-opacity:0.454433;stroke-width:0.160926;enable-background:new" />
   </g>
   <g
      id="deactivated-inactive-center">
@@ -375,10 +375,10 @@
     <path
        d="m 38.93236,45.840001 a 0.48278834,0.48278835 0 0 1 0.341174,0.141622 l 5.693686,5.693682 5.69368,-5.693682 a 0.48278834,0.48278835 0 0 1 0.68234,0.682335 l -6.03486,6.034853 a 0.48278834,0.48278835 0 0 1 -0.68233,0 l -6.034858,-6.034853 a 0.48278834,0.48278835 0 0 1 0.341168,-0.823957 z"
        id="path4-3-3-5-2-3-0-4"
-       style="fill:#a6a6a6;fill-opacity:0.45073891;stroke-width:0.160926;enable-background:new" />
+       style="fill:#a6a6a6;fill-opacity:0.450739;stroke-width:0.160926;enable-background:new" />
     <path
        d="m 50.99041,47.840001 a 0.48278834,0.48278835 0 0 1 -0.34118,-0.141622 l -5.69368,-5.693681 -5.693687,5.693681 a 0.48278834,0.48278835 0 0 1 -0.682339,-0.682335 l 6.034858,-6.034852 a 0.48278834,0.48278835 0 0 1 0.682338,0 l 6.03485,6.034852 a 0.48278834,0.48278835 0 0 1 -0.34116,0.823957 z"
        id="path4-36-6-3-6-6-7-9"
-       style="fill:#a6a6a6;fill-opacity:0.45320198;stroke-width:0.160926;enable-background:new" />
+       style="fill:#a6a6a6;fill-opacity:0.453202;stroke-width:0.160926;enable-background:new" />
   </g>
 </svg>
