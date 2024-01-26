@@ -37,7 +37,7 @@ Screenshot:
 
 ![5](https://github.com/L4ki/Vivid-Plasma-Themes/assets/45247573/a2572539-faf9-4b66-9a35-60e8b36b58f1)
 
-
+___________________________________
 
 
 Changelog: 26.01.2024.
