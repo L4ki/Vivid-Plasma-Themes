@@ -37,7 +37,9 @@ Screenshot:
 
 ![5](https://github.com/L4ki/Vivid-Plasma-Themes/assets/45247573/a2572539-faf9-4b66-9a35-60e8b36b58f1)
 
-Changelog: 06.12.2023
+
+
+Changelog: 26.01.2024.
 ---------------------
 
 GTK-Theme
@@ -45,104 +47,7 @@ GTK-Theme
 
 Update: styles
 
-Icon Theme
------------
-
-Added new icons: apps 32, 48
-
-Aurorae Themes
---------------
-
-Update: shade.svg
-
-Plasma Theme
-------------
-
-Added icon: telegram.svg
-
-Changelog: 13.12.2023
----------------------
-
-GTK-Theme
-----------
-
-Update: gtkrc
-
-Icon Theme
------------
-
-Update icons: places
-
-Aurorae Themes
---------------
-
-Update: Auroraerc
-
-Plasma Theme
-------------
-
-Update icon: telegram.svg
-
-Changelog: 20.12.2023
----------------------
-
-GTK-Theme
-----------
-
-Update: checkbox-mixed-active.png
-
-Icon Theme
------------
-
-Added new icons: apps 32, 48
-
-Aurorae Themes
---------------
-
-Update: keepabove.svg
-
-Plasma Theme
-------------
-
-Added widget: scrollwidget.svg
-
-Changelog: 27.12.2023
----------------------
-
-GTK-Theme
-----------
-
-Update: gtk-4.0
-
-Icon Theme
------------
-
-Added new icons: apps 32, 48
-
-Aurorae Themes
---------------
-
-Update: alldesktops.svg
-
-Plasma Theme
-------------
-
-Added icon: org.rnd2.cpupower_gui.svg
-
-Splashscreen
-------------
-
-Update: Splash.qml
-
-Changelog: 03.01.2024.
----------------------
-
-GTK-Theme
-----------
-
-Update: gtk-3.0
-
-Icon Theme
+Icon Themes
 -----------
 
 Added new icons: apps 48
@@ -150,56 +55,9 @@ Added new icons: apps 48
 Aurorae Themes
 --------------
 
-Update: decoration.svg
+Update:  keepbelow.svg
 
 Plasma Theme
 ------------
 
-Added icon: krfb.svg
-
-
-Changelog: 12.01.2024.
----------------------
-
-GTK-Theme
-----------
-
-Update: focus.png
-
-Icon Theme
------------
-
-Added new icons: apps 48
-
-Aurorae Themes
---------------
-
-Update: decoration.svg
-
-Plasma Theme
-------------
-
-Added icon: skype.svg
-
-Changelog: 19.01.2024.
----------------------
-
-GTK-Theme
-----------
-
-Update: gtkrc
-
-Icon Theme
------------
-
-Added new icons: apps 48
-
-Aurorae Themes
---------------
-
-Update: restore.svg
-
-Plasma Theme
-------------
-
-Update icon: go.svg, kgpg.svg, preferences.svg, widget.svg
+Added widget: media-delegate.svg
