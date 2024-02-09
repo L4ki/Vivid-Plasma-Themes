@@ -40,13 +40,13 @@ Screenshot:
 ___________________________________
 
 
-Changelog: 02.02.2024.
+Changelog: 09.02.2024.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: radio-unchecked-insensitive.png
+Update: main.rc
 
 Icon Themes
 -----------
@@ -56,9 +56,9 @@ Added new icons: apps 48
 Aurorae Themes
 --------------
 
-Update: maximize.svg
+Update: minimize.svg
 
 Plasma Theme
 ------------
 
-Added icon: solaar.svg
+Updade widgets: background.svg, panel-background.svg, tooltip.svg
