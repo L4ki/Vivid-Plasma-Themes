@@ -6,7 +6,7 @@
    version="1.1"
    style="enable-background:new"
    sodipodi:docname="minimize.svg"
-   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -83,7 +83,7 @@
   <sodipodi:namedview
      inkscape:document-rotation="0"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#000000"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -96,7 +96,7 @@
      showgrid="false"
      inkscape:zoom="5.6856057"
      inkscape:cx="-1.2311793"
-     inkscape:cy="31.043306"
+     inkscape:cy="45.025986"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -106,7 +106,7 @@
      inkscape:lockguides="false"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#d1d1d1"
+     inkscape:deskcolor="#cccccc"
      showguides="false">
     <inkscape:grid
        id="grid1"
@@ -320,7 +320,7 @@
     <path
        d="m 35.675957,8 a 0.42633541,0.42633541 0 0 1 0.301279,0.1250618 l 5.027918,5.0279132 5.027915,-5.0279132 a 0.42633541,0.42633541 0 0 1 0.602552,0.602549 l -5.329195,5.3291912 a 0.42633541,0.42633541 0 0 1 -0.602549,0 L 35.374682,8.7276108 A 0.42633541,0.42633541 0 0 1 35.675957,8 Z"
        id="path4-3-3-7-36-20"
-       style="fill:#ffffff;fill-opacity:0.45000002;stroke-width:0.142105;enable-background:new" />
+       style="fill:#ffffff;fill-opacity:0.45;stroke-width:0.142105;enable-background:new" />
   </g>
   <g
      id="deactivated-inactive-center">
@@ -347,6 +347,6 @@
     <path
        d="m 35.675957,36.16 a 0.42633541,0.42633541 0 0 1 0.301279,0.125062 l 5.027918,5.027913 5.027915,-5.027913 a 0.42633541,0.42633541 0 0 1 0.602552,0.602549 l -5.329195,5.329191 a 0.42633541,0.42633541 0 0 1 -0.602549,0 L 35.374682,36.887611 A 0.42633541,0.42633541 0 0 1 35.675957,36.16 Z"
        id="path4-3-3-7-36-93-6"
-       style="fill:#a6a6a6;fill-opacity:0.44999999;stroke-width:0.142105;enable-background:new" />
+       style="fill:#a6a6a6;fill-opacity:0.45;stroke-width:0.142105;enable-background:new" />
   </g>
 </svg>
