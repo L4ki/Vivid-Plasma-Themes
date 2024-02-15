@@ -40,13 +40,13 @@ Screenshot:
 ___________________________________
 
 
-Changelog: 09.02.2024.
+Changelog: 16.02.2024.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: main.rc
+Update: apps.rc
 
 Icon Themes
 -----------
@@ -56,9 +56,9 @@ Added new icons: apps 48
 Aurorae Themes
 --------------
 
-Update: minimize.svg
+Update: maximize.svg
 
 Plasma Theme
 ------------
 
-Updade widgets: background.svg, panel-background.svg, tooltip.svg
+Added icon: strawberry.svg
