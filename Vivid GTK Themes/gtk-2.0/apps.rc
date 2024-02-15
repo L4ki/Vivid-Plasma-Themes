@@ -151,7 +151,7 @@ widget_class "*ThunarRenamerDialog*.<GtkEntry>"         style "entry_border"
 class "SexySpellEntry"                                style:highest "entry_border"
 
 # Geany search entries
-widget "*GeanyToolbar.*geany-search-entry-no-match*"  style "entry_border"
-widget "*GeanyToolbar.*GtkEntry*"                     style "entry_border"
+widget "*GeanyToolbar.*geany-search-entry-no-match*"style "entry_border"
+widget "*GeanyToolbar.*GtkEntry*"style "entry_border"
 
-widget "GeanyDialogSearch.*GtkComboBoxEntry*.*geany-search-entry-no-match*"  style "combobox_entry_border"
+widget "GeanyDialogSearch.*GtkComboBoxEntry*.*geany-search-entry-no-match*"style "combobox_entry_border"
