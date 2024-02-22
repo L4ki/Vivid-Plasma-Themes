@@ -40,13 +40,13 @@ Screenshot:
 ___________________________________
 
 
-Changelog: 16.02.2024.
+Changelog: 23.02.2024.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: apps.rc
+Update: hacks-dark.rc
 
 Icon Themes
 -----------
@@ -56,9 +56,9 @@ Added new icons: apps 48
 Aurorae Themes
 --------------
 
-Update: maximize.svg
+Update: help.svg
 
 Plasma Theme
 ------------
 
-Added icon: strawberry.svg
+Added icon: sogoupinyin.svg
