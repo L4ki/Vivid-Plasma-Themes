@@ -1,0 +1,36 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Vivid-Dark-Global-6",
+        "Description": "Vivid-Dark Global Theme by l4k1",
+        "Id": "Vivid-Dark-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/Vivid-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://window-decorations.knsrc/api.kde-look.org/2133854",
+        "kns://window-decorations.knsrc/api.kde-look.org/2133852",
+        "kns://colorschemes.knsrc/api.kde-look.org/2110174",
+        "kns://colorschemes.knsrc/api.kde-look.org/2110173",
+        "kns://icons.knsrc/api.kde-look.org/2110189",
+        "kns://icons.knsrc/api.kde-look.org/2078427",
+        "kns://icons.knsrc/api.kde-look.org/2091068",
+        "kns://icons.knsrc/api.kde-look.org/2078422",
+        "kns://icons.knsrc/api.kde-look.org/2119129",
+        "kns://plasma-themes.knsrc/api.kde-look.org/2110196",
+        "kns://wallpaper.knsrc/api.kde-look.org/2110165",
+        "kns://wallpaper.knsrc/api.kde-look.org/2110169"
+    ]
+}
