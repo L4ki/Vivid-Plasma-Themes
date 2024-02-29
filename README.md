@@ -62,3 +62,19 @@ Plasma Theme
 ------------
 
 Added icon: sogoupinyin.svg
+
+Changelog: 29.02.2024.
+---------------------
+
+Icon Themes
+-----------
+
+Customized and for Plasma 6
+
+Aurorae Themes
+--------------
+
+Added Aurorae Themes for Plasma 6
+
+
+
