@@ -6,7 +6,7 @@
    version="1.1"
    style="enable-background:new"
    sodipodi:docname="close.svg"
-   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -115,7 +115,7 @@
   <sodipodi:namedview
      inkscape:document-rotation="0"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#000000"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -130,7 +130,7 @@
      inkscape:bbox-nodes="true"
      inkscape:zoom="5.6568545"
      inkscape:cx="-4.7729706"
-     inkscape:cy="37.918599"
+     inkscape:cy="37.830211"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -139,7 +139,7 @@
      showguides="false"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        id="grid1"
        units="px"
@@ -378,10 +378,10 @@
     <path
        d="m 43.115206,46.500008 c -0.16448,0 -0.32897,-0.06278 -0.45452,-0.188337 -0.25112,-0.251116 -0.25112,-0.657924 0,-0.90904 l 7.71429,-7.714286 c 0.25112,-0.251116 0.65793,-0.251116 0.90904,0 0.25112,0.251116 0.25112,0.657924 0,0.90904 l -7.71429,7.714286 c -0.12556,0.125558 -0.29004,0.188337 -0.45452,0.188337 z"
        id="path2-6-2-9-9-8-3-8-0"
-       style="fill:#a6a6a6;fill-opacity:0.44999999;stroke-width:0.642857;enable-background:new" />
+       style="fill:#a6a6a6;fill-opacity:0.45;stroke-width:0.642857;enable-background:new" />
     <path
        d="m 50.829496,46.500008 c -0.16448,0 -0.32896,-0.06278 -0.45452,-0.188337 l -7.71429,-7.714286 c -0.25112,-0.251116 -0.25112,-0.657924 0,-0.90904 0.25111,-0.251116 0.65792,-0.251116 0.90904,0 l 7.71429,7.714286 c 0.25112,0.251116 0.25112,0.657924 0,0.90904 -0.12556,0.125558 -0.29004,0.188337 -0.45452,0.188337 z"
        id="path6-7-9-3-2-9-6-56-6"
-       style="fill:#a6a6a6;fill-opacity:0.44999999;stroke-width:0.642857;enable-background:new" />
+       style="fill:#a6a6a6;fill-opacity:0.45;stroke-width:0.642857;enable-background:new" />
   </g>
 </svg>
