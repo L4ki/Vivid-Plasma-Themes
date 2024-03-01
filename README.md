@@ -40,28 +40,23 @@ Screenshot:
 ___________________________________
 
 
-Changelog: 23.02.2024.
+Changelog: 01.03.2024.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: hacks-dark.rc
-
-Icon Themes
------------
-
-Added new icons: apps 48
+Update: hacks.rc
 
 Aurorae Themes
 --------------
 
-Update: help.svg
+Update: close.svg
 
 Plasma Theme
 ------------
 
-Added icon: sogoupinyin.svg
+Update widget: busywidget.svg
 
 Changelog: 29.02.2024.
 ---------------------
@@ -71,7 +66,7 @@ Icon Themes
 
 Customized and for Plasma 6
 
-Aurorae Themes
+Aurorae Themes 
 --------------
 
 Added Aurorae Themes for Plasma 6
