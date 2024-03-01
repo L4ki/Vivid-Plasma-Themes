@@ -2,7 +2,7 @@
 <svg
    height="32"
    width="32"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="busywidget.svg"
    id="svg14"
    xml:space="preserve"
@@ -78,9 +78,9 @@
    inkscape:window-maximized="1"
    inkscape:window-y="0"
    inkscape:window-x="0"
-   inkscape:cy="51.707183"
-   inkscape:cx="19.26866"
-   inkscape:zoom="5.6568543"
+   inkscape:cy="76.624999"
+   inkscape:cx="22.25"
+   inkscape:zoom="4"
    showgrid="true"
    id="namedview16"
    inkscape:window-height="994"
@@ -91,11 +91,11 @@
    gridtolerance="10"
    objecttolerance="10"
    borderopacity="1"
-   bordercolor="#030303"
+   bordercolor="#050505"
    pagecolor="#02334b"
    inkscape:pagecheckerboard="true"
    inkscape:showpageshadow="true"
-   inkscape:deskcolor="#02334b"><inkscape:grid
+   inkscape:deskcolor="#012232"><inkscape:grid
      type="xygrid"
      id="grid535"
      originx="0.32356799"
@@ -103,7 +103,9 @@
      spacingy="1"
      spacingx="1"
      units="px"
-     visible="true" /></sodipodi:namedview>&#10;&#10;<g
+     visible="true" /></sodipodi:namedview>
+
+<g
    id="22-22-busywidget"
    transform="matrix(1.717967,0,0,1.717967,-57.858246,-425.77296)"><rect
      y="279.53748"
