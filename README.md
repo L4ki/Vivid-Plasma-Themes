@@ -40,6 +40,19 @@ Screenshot:
 ___________________________________
 
 
+Changelog: 07.03.2024.
+---------------------
+
+Icon Themes
+-----------
+
+Update Icons: status
+
+Aurorae Themes For Plasma 6
+---------------------------
+
+Update: decoration.svg
+
 Changelog: 01.03.2024.
 ---------------------
 
