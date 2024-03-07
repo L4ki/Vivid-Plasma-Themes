@@ -79,8 +79,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="16.948466"
-     inkscape:cx="7.9063204"
-     inkscape:cy="13.895063"
+     inkscape:cx="7.9063203"
+     inkscape:cy="18.644755"
      inkscape:window-width="1920"
      inkscape:window-height="994"
      inkscape:window-x="0"
@@ -99,19 +99,6 @@
      fill="currentColor"
      id="g4"
      transform="translate(-0.05900239,17.900239)">
-    <path
-       d="M 8,2 4,6 v 4 l 4,4 H 9 V 2 Z"
-       id="path1" />
-    <path
-       d="m 2,6 v 4 H 3 V 6 Z"
-       id="path2" />
-    <path
-       d="M 10.128906,4.615234 9.7988281,5.603516 A 3,3 0 0 1 11,8 3,3 0 0 1 9.7988281,10.396484 l 0.3281249,0.984375 A 4,4 0 0 0 12,8 4,4 0 0 0 10.128906,4.615234 Z"
-       id="path3" />
-    <path
-       d="m 9.9453125,2.332031 -0.1679687,1 A 5,5 0 0 1 13,8 5,5 0 0 1 9.7792969,12.671875 l 0.1660156,0.998047 A 6,6 0 0 0 14,8 6,6 0 0 0 9.9453125,2.332031 Z"
-       opacity="0.35"
-       id="path4" />
     <path
        id="rect858-3"
        d="M 0.05900239,-17.900239 H 16.059002 v 16 H 0.05900239 Z"

@@ -80,7 +80,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="11.984375"
      inkscape:cx="7.2594524"
-     inkscape:cy="20.485006"
+     inkscape:cy="20.443286"
      inkscape:window-width="1920"
      inkscape:window-height="994"
      inkscape:window-x="0"
@@ -94,26 +94,6 @@
             color:#232629;
         }
     </style>
-  <g
-     class="ColorScheme-Text"
-     fill="currentColor"
-     id="g4"
-     transform="translate(-0.08474576,22.099087)">
-    <path
-       d="M 8,2 4,6 v 4 l 4,4 H 9 V 2 Z"
-       id="path1" />
-    <path
-       d="m 2,6 v 4 H 3 V 6 Z"
-       id="path2" />
-    <path
-       d="M 10.128906,4.615234 9.7988281,5.603516 A 3,3 0 0 1 11,8 3,3 0 0 1 9.7988281,10.396484 l 0.3281249,0.984375 A 4,4 0 0 0 12,8 4,4 0 0 0 10.128906,4.615234 Z"
-       opacity="0.35"
-       id="path3" />
-    <path
-       d="m 9.9453125,2.332031 -0.1679687,1 A 5,5 0 0 1 13,8 5,5 0 0 1 9.7792969,12.671875 l 0.1660156,0.998047 A 6,6 0 0 0 14,8 6,6 0 0 0 9.9453125,2.332031 Z"
-       opacity="0.35"
-       id="path4" />
-  </g>
   <path
      id="rect858-6"
      d="M 0,0 H 16 V 16 H 0 Z"
