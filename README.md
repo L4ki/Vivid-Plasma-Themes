@@ -53,25 +53,25 @@ Aurorae Themes For Plasma 6
 
 Update: decoration.svg
 
-Changelog: 01.03.2024.
+Changelog: 08.03.2024.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: hacks.rc
+Update: gtkrc.rc
 
 Aurorae Themes
 --------------
 
-Update: close.svg
+Update:Aurorarc
 
 Plasma Theme
 ------------
 
-Update widget: busywidget.svg
+Update widget: switch.svg
 
-Changelog: 29.02.2024.
+Changelog: 07.03.2024.
 ---------------------
 
 Icon Themes
