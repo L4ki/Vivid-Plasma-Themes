@@ -59,7 +59,7 @@ Changelog: 08.03.2024.
 GTK-Theme
 ----------
 
-Update: gtkrc.rc
+Update: gtkrc
 
 Aurorae Themes
 --------------
@@ -71,7 +71,6 @@ Plasma Theme
 
 Update widget: switch.svg
 
-Added Aurorae Themes for Plasma 6
 
 
 
