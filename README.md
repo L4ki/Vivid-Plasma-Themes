@@ -71,17 +71,6 @@ Plasma Theme
 
 Update widget: switch.svg
 
-Changelog: 07.03.2024.
----------------------
-
-Icon Themes
------------
-
-Customized and for Plasma 6
-
-Aurorae Themes 
---------------
-
 Added Aurorae Themes for Plasma 6
 
 
