@@ -46,7 +46,7 @@ Changelog: 14.03.2024.
 Icon Themes
 -----------
 
-Update Icons: devices
+Update Icons: devices 64
 
 Aurorae Themes For Plasma 6
 ---------------------------
