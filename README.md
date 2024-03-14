@@ -40,18 +40,18 @@ Screenshot:
 ___________________________________
 
 
-Changelog: 07.03.2024.
+Changelog: 14.03.2024.
 ---------------------
 
 Icon Themes
 -----------
 
-Update Icons: status
+Update Icons: devices
 
 Aurorae Themes For Plasma 6
 ---------------------------
 
-Update: decoration.svg
+Update: metadata.json
 
 Changelog: 08.03.2024.
 ---------------------
