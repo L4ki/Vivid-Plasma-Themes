@@ -55,23 +55,23 @@ Aurorae Themes For Plasma 6
 
 Update: metadata.json
 
-Changelog: 08.03.2024.
+Changelog: 15.03.2024.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: gtkrc
+Update: styles
 
 Aurorae Themes
 --------------
 
-Update:Aurorarc
+Update:metadata.desktop
 
 Plasma Theme
 ------------
 
-Update widget: switch.svg
+Update widget: tasks.svg
 
 
 
