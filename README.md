@@ -39,21 +39,9 @@ Screenshot:
 
 ![5](https://github.com/L4ki/Vivid-Plasma-Themes/assets/45247573/a2572539-faf9-4b66-9a35-60e8b36b58f1)
 
-___________________________________
+_________________________________
 
 
-Changelog: 14.03.2024.
----------------------
-
-Icon Themes
------------
-
-Update Icons: devices 64
-
-Aurorae Themes For Plasma 6
----------------------------
-
-Update: metadata.json
 
 Changelog: 22.03.2024.
 ---------------------
