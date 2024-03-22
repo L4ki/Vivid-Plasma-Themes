@@ -55,23 +55,35 @@ Aurorae Themes For Plasma 6
 
 Update: metadata.json
 
-Changelog: 15.03.2024.
+Changelog: 22.03.2024.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: styles
+Update: gtk-4.0
 
 Aurorae Themes
 --------------
 
-Update:metadata.desktop
+Update:decoration.svg
 
 Plasma Theme
 ------------
 
-Update widget: tasks.svg
+Update widget: listitem.svg
+
+Icon Themes
+-----------
+
+Update Icons: action
+
+Added icons: apps 48
+
+Aurorae Themes For Plasma 6
+---------------------------
+
+Update: rc file
 
 
 
