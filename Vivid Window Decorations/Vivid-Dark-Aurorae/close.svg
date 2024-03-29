@@ -30,7 +30,7 @@
        d="M 11,1 C 5.477256,1 1,5.4771574 1,10.999998 1,16.522837 5.477256,21 11,21 16.52276,21 21,16.522837 21,10.999998 21,5.4771574 16.52276,1 11,1 Z m 0,1.2499999 c 4.83243,0 8.75,3.9174965 8.75,8.7499981 C 19.75,15.832476 15.83243,19.75 11,19.75 6.167556,19.75 2.25,15.832476 2.25,10.999998 2.25,6.1674964 6.167556,2.2499999 11,2.2499999 Z m 0,0 z"
        sodipodi:nodetypes="ssssssssssccccc" />
     <rect
-       style="opacity:0.01;fill:#ffffff;fill-opacity:0.01;stroke:none;stroke-width:0.44999"
+       style="opacity:0.01;fill:#000000;fill-opacity:0.01000001;stroke:none;stroke-width:0.44999"
        id="center-3-35-5"
        width="18"
        height="18"
@@ -167,7 +167,7 @@
      id="hover-center"
      transform="translate(-27.16)">
     <rect
-       style="opacity:0.00100002;fill:#050505;fill-opacity:1;stroke-width:1.001"
+       style="opacity:0.00100002;fill:#030303;fill-opacity:0.01000001;stroke-width:1.001"
        id="rect953-2-7-2"
        width="22"
        height="22"
@@ -198,7 +198,7 @@
   <g
      id="pressed-center">
     <rect
-       style="opacity:0.00100002;fill:#050505;fill-opacity:1;stroke-width:1.001"
+       style="opacity:0.00100002;fill:#030303;fill-opacity:0.01;stroke-width:1.001"
        id="rect953-2-7-6"
        width="22"
        height="22"
@@ -230,7 +230,7 @@
      id="inactive-center"
      transform="translate(-0.16,-0.16000014)">
     <rect
-       style="opacity:0.00100002;fill:#050505;fill-opacity:1;stroke-width:1.001;enable-background:new"
+       style="opacity:0.00100002;fill:#050505;fill-opacity:0.00703611;stroke-width:1.001;enable-background:new"
        id="rect953-2-7-2-75-0"
        width="22"
        height="22"
@@ -262,7 +262,7 @@
      id="hover-inactive-center"
      transform="translate(-0.16,-0.16000014)">
     <rect
-       style="opacity:0.00100002;fill:#050505;fill-opacity:1;stroke-width:1.001"
+       style="opacity:0.00100002;fill:#050505;fill-opacity:0.01;stroke-width:1.001"
        id="rect953-2-7-2-1"
        width="22"
        height="22"
@@ -294,7 +294,7 @@
      id="pressed-inactive-center"
      transform="translate(-0.16,-0.16000014)">
     <rect
-       style="opacity:0.00100002;fill:#050505;fill-opacity:1;stroke-width:1.001"
+       style="opacity:0.00100002;fill:#050505;fill-opacity:0.01;stroke-width:1.001"
        id="rect953-2-7-6-0"
        width="22"
        height="22"
@@ -325,7 +325,7 @@
   <g
      id="deactivated-center">
     <rect
-       style="opacity:0.00100002;fill:#050505;fill-opacity:1;stroke-width:1.001;enable-background:new"
+       style="opacity:0.00100002;fill:#050505;fill-opacity:0.01;stroke-width:1.001;enable-background:new"
        id="rect953-2-7-2-75-7"
        width="22"
        height="22"
@@ -337,7 +337,7 @@
        d="m 46.972346,1 c -5.522744,0 -10,4.4771574 -10,9.999998 0,5.522839 4.477256,10.000002 10,10.000002 5.52276,0 10,-4.477163 10,-10.000002 0,-5.5228406 -4.47724,-9.999998 -10,-9.999998 z m 0,1.2499999 c 4.83243,0 8.75,3.9174965 8.75,8.7499981 0,4.832478 -3.91757,8.750002 -8.75,8.750002 -4.832444,0 -8.75,-3.917524 -8.75,-8.750002 0,-4.8325016 3.917556,-8.7499981 8.75,-8.7499981 z m 0,0 z"
        sodipodi:nodetypes="ssssssssssccccc" />
     <rect
-       style="opacity:0.01;fill:#ffffff;fill-opacity:0.01;stroke:none;stroke-width:0.44999"
+       style="opacity:0.01;fill:#000000;fill-opacity:0.01000001;stroke:none;stroke-width:0.44999"
        id="center-3-35-5-7"
        width="18"
        height="18"
@@ -356,7 +356,7 @@
   <g
      id="deactivated-inactive-center">
     <rect
-       style="opacity:0.00100002;fill:#050505;fill-opacity:1;stroke-width:1.001;enable-background:new"
+       style="opacity:0.00100002;fill:#050505;fill-opacity:0.01;stroke-width:1.001;enable-background:new"
        id="rect953-2-7-2-75-0-2"
        width="22"
        height="22"

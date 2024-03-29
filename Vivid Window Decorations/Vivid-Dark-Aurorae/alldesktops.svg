@@ -87,7 +87,7 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="35.611141"
+     inkscape:cy="35.698638"
      inkscape:cx="-4.374833"
      inkscape:zoom="5.7145038"
      showgrid="false"
@@ -133,7 +133,7 @@
      id="active-center"
      transform="translate(-55.16,0.01999992)">
     <rect
-       style="opacity:0.00100002;fill:#050505;fill-opacity:1;stroke-width:1.001;enable-background:new"
+       style="opacity:0.00100002;fill:#000000;fill-opacity:0.01;stroke-width:1.001;enable-background:new"
        id="rect953-2-7-2-75"
        width="22"
        height="22"
@@ -169,7 +169,7 @@
   <g
      id="pressed-center">
     <rect
-       style="opacity:0.00100002;fill:#050505;fill-opacity:1;stroke-width:1.001"
+       style="opacity:0.00100002;fill:#000000;fill-opacity:0.01;stroke-width:1.001"
        id="rect953-2-7-2-0"
        width="22"
        height="22"
@@ -197,7 +197,7 @@
      id="hover-center"
      transform="translate(-27.16,-0.06000001)">
     <rect
-       style="opacity:0.00100002;fill:#050505;fill-opacity:1;stroke-width:1.001"
+       style="opacity:0.00100002;fill:#000000;fill-opacity:0.01;stroke-width:1.001"
        id="rect953-2-7-2"
        width="22"
        height="22"
@@ -234,7 +234,7 @@
      id="inactive-center"
      transform="translate(-27.16,-0.21999996)">
     <rect
-       style="opacity:0.00100002;fill:#050505;fill-opacity:1;stroke-width:1.001;enable-background:new"
+       style="opacity:0.00100002;fill:#000000;fill-opacity:0.01;stroke-width:1.001;enable-background:new"
        id="rect953-2-7-2-75-6"
        width="22"
        height="22"
@@ -271,7 +271,7 @@
      id="pressed-inactive-center"
      transform="translate(-27.16,-0.21999996)">
     <rect
-       style="opacity:0.00100002;fill:#050505;fill-opacity:1;stroke-width:1.001"
+       style="opacity:0.00100002;fill:#030303;fill-opacity:0.01;stroke-width:1.001"
        id="rect953-2-7-2-0-2"
        width="22"
        height="22"
@@ -299,7 +299,7 @@
      id="hover-inactive-center"
      transform="translate(-27.16,-0.21999996)">
     <rect
-       style="opacity:0.00100002;fill:#050505;fill-opacity:1;stroke-width:1.001"
+       style="opacity:0.00100002;fill:#030303;fill-opacity:0.01;stroke-width:1.001"
        id="rect953-2-7-2-6"
        width="22"
        height="22"
@@ -335,7 +335,7 @@
   <g
      id="deactivated-center">
     <rect
-       style="opacity:0.00100002;fill:#050505;fill-opacity:1;stroke-width:1.001;enable-background:new"
+       style="opacity:0.00100002;fill:#030303;fill-opacity:0.01;stroke-width:1.001;enable-background:new"
        id="rect953-2-7-2-75-4"
        width="22"
        height="22"
@@ -371,7 +371,7 @@
   <g
      id="deactivated-inactive-center">
     <rect
-       style="opacity:0.00100002;fill:#050505;fill-opacity:1;stroke-width:1.001;enable-background:new"
+       style="opacity:0.00100002;fill:#030303;fill-opacity:0.01000001;stroke-width:1.001;enable-background:new"
        id="rect953-2-7-2-75-6-6"
        width="22"
        height="22"
