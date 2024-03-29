@@ -43,35 +43,33 @@ _________________________________
 
 
 
-Changelog: 22.03.2024.
+Changelog: 29.03.2024.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: gtk-4.0
+Update: gtk-3.0
 
 Aurorae Themes
 --------------
 
-Update:decoration.svg
+Update:metadata.desktop
 
 Plasma Theme
 ------------
 
-Update widget: listitem.svg
+Update widget: arrows.svg
 
 Icon Themes
 -----------
 
-Update Icons: action
-
-Added icons: apps 48
+Added new icons: appe 48
 
 Aurorae Themes For Plasma 6
 ---------------------------
 
-Update: rc file
+Update: metadata.desktop
 
 
 
