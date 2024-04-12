@@ -49,7 +49,7 @@ Changelog: 05.04.2024.
 GTK-Theme
 ----------
 
-Update: gtkrc
+Update: apps.rc
 
 Aurorae Themes
 --------------
@@ -59,12 +59,10 @@ Update:metadata.desktop
 Plasma Theme
 ------------
 
-Update icon: media.svg
-
-Icon Themes
+Update: metadata.destop
 -----------
 
-Added new icons: appe 48
+Update icons: places
 
 
 
