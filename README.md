@@ -62,6 +62,9 @@ Plasma Theme
 Update: metadata.destop
 -----------
 
+Icons
+-----
+
 Update icons: places
 
 
