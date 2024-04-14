@@ -67,7 +67,10 @@ Icons
 
 Update icons: places
 
+SDDM Theme
+----------
 
+Update: VirtualKeyboard.qml
 
 
 
