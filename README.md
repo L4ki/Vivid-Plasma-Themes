@@ -43,13 +43,13 @@ _________________________________
 
 
 
-Changelog: 12.04.2024.
+Changelog: 19.04.2024.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: apps.rc
+Update: main.rc
 
 Aurorae Themes
 --------------
@@ -59,18 +59,15 @@ Update:metadata.desktop
 Plasma Theme
 ------------
 
-Update: metadata.destop
+Update widget: tooltip.svg
 -----------
 
 Icons
 -----
 
-Update icons: places
+Update icons: places 64
 
-SDDM Theme
-----------
 
-Update: VirtualKeyboard.qml
 
 
 
