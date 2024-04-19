@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="4.106605"
      inkscape:cx="-17.045711"
-     inkscape:cy="52.963458"
+     inkscape:cy="53.085213"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -2783,35 +2783,35 @@
      clip-path="url(#clipPath1399)"
      transform="translate(-645.28138,-401.97728)" />
   <path
-     d="m 325.607,638.006 c -0.581,-8.937 6.511,-16.506 15.467,-16.506 h 91.852 c 8.956,0 16.048,7.569 15.467,16.506 l -5.919,91 c -0.53,8.153 -7.297,14.494 -15.467,14.494 h -80.014 c -8.17,0 -14.937,-6.341 -15.467,-14.494 z"
+     d="M 4.0814986,12.473354 C 3.8115898,8.5480534 7.1062426,5.2236047 11.266833,5.2236047 h 42.670678 c 4.160591,0 7.455244,3.3244487 7.185335,7.2497493 l -2.749725,39.96893 c -0.246216,3.580952 -3.389887,6.36604 -7.185335,6.36604 H 14.016558 c -3.795447,0 -6.9391181,-2.785088 -7.1853344,-6.36604 z"
      id="path471"
-     transform="matrix(0.46455905,0,0,0.43921901,-147.47048,-267.75101)"
      stroke="url(#paint20_linear_0_2)"
-     style="fill:url(#radialGradient2);fill-opacity:1" />
+     style="fill:url(#radialGradient2);fill-opacity:1;stroke:url(#paint20_linear_0_2);stroke-width:0.451711" />
   <path
      fill-rule="evenodd"
      clip-rule="evenodd"
      d="M 317.298,655.204 C 316.598,645.92 323.942,638 333.253,638 H 344 365.047 c 4.435,0 8.671,1.841 11.697,5.083 l 18.512,19.834 c 3.026,3.242 7.262,5.083 11.697,5.083 H 428 438.227 c 9.5,0 16.907,8.228 15.912,17.675 l -4.631,44 C 448.651,737.818 441.784,744 433.596,744 h -94.758 c -8.37,0 -15.325,-6.45 -15.955,-14.796 z"
      fill="url(#paint21_radial_0_2)"
      id="path475"
-     style="fill:url(#paint21_radial_0_2);filter:url(#filter5_b_0_2)"
+     style="fill:url(#paint21_radial_0_2)"
      clip-path="url(#clipPath1030)"
-     transform="matrix(0.46455905,0,0,0.43921901,-147.47048,-267.75101)" />
+     transform="matrix(0.46455905,0,0,0.43921901,-147.1822,-267.75101)" />
   <path
      d="m 317.797,655.166 c -0.679,-8.994 6.436,-16.666 15.456,-16.666 H 344 365.047 c 4.296,0 8.4,1.783 11.332,4.924 l 18.511,19.834 c 3.121,3.344 7.489,5.242 12.063,5.242 H 428 438.227 c 9.203,0 16.379,7.971 15.415,17.123 l -4.631,44 c -0.831,7.888 -7.483,13.877 -15.415,13.877 h -94.758 c -8.108,0 -14.846,-6.249 -15.456,-14.334 z"
      stroke="url(#paint22_radial_0_2)"
      id="path476"
-     style="stroke:url(#paint22_radial_0_2);filter:url(#filter5_b_0_2)"
+     style="stroke:url(#paint22_radial_0_2)"
      clip-path="url(#clipPath1028)"
-     transform="matrix(0.46455905,0,0,0.43921901,-147.47048,-267.75101)" />
+     transform="matrix(0.46455905,0,0,0.43921901,-147.1822,-267.75101)" />
   <rect
-     x="7"
+     x="7.2883005"
      y="18"
      width="17.299999"
      height="4"
      rx="2.2763126"
      id="rect476"
-     style="fill:#ffffff;fill-opacity:0.5;stroke-width:0.42673" />
+     style="fill:#ffffff;fill-opacity:0.5;stroke-width:0.42673"
+     ry="2.2763126" />
   <rect
      x="586.5"
      y="551.5"
@@ -5472,7 +5472,8 @@
        y1="669.22601"
        x2="376.76801"
        y2="729.52899"
-       gradientUnits="userSpaceOnUse">
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.46455905,0,0,0.43921901,-147.47048,-267.75101)">
       <stop
          stop-color="white"
          stop-opacity="0.29535"
@@ -5489,7 +5490,7 @@
        cy="0"
        r="1"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(124.62875,17.412956,-23.64667,129.05383,326.418,645.225)"
+       gradientTransform="matrix(124.62875,17.412956,-23.64667,129.05383,325.79741,645.225)"
        fx="0"
        fy="0">
       <stop
@@ -5508,7 +5509,7 @@
        cy="0"
        r="1"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(27.204128,57.508686,-105.93346,50.111167,329.504,648.282)">
+       gradientTransform="matrix(27.204128,57.508686,-105.93346,50.111167,328.88341,648.282)">
       <stop
          stop-color="white"
          stop-opacity="0.973411"
@@ -18560,7 +18561,7 @@
        fx="345.95578"
        fy="630.88007"
        r="61.926258"
-       gradientTransform="matrix(1.5849751,0.3886119,-0.27736866,1.2655615,-25.920244,-300.81206)"
+       gradientTransform="matrix(0.73631453,0.17068573,-0.12885412,0.55585867,-159.51197,-399.87339)"
        gradientUnits="userSpaceOnUse" />
     <filter
        id="filter0_df_77:15"
@@ -18967,7 +18968,7 @@
   </defs>
   <g
      id="g1025-3"
-     transform="matrix(0.92534298,0,0,0.92534298,3.3029394,6.7210741)"
+     transform="matrix(0.92534298,0,0,0.92534298,3.5912394,6.7210741)"
      style="opacity:1;fill:#ffffff;fill-opacity:0.52">
     <g
        transform="matrix(0.06411595,0,0,0.06411595,15.742708,9.967756)"
