@@ -19,7 +19,7 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <style
      type="text/css"
-     id="current-color-scheme"></style>
+     id="current-color-scheme" />
   <defs
      id="defs4">
     <linearGradient
@@ -218,8 +218,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.7668298"
-     inkscape:cx="83.850478"
-     inkscape:cy="91.621104"
+     inkscape:cx="94.331787"
+     inkscape:cy="90.898255"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -227,7 +227,7 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -237,7 +237,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:pagecheckerboard="true"
-     inkscape:deskcolor="#02334b">
+     inkscape:deskcolor="#012232">
     <inkscape:grid
        type="xygrid"
        id="grid344"
