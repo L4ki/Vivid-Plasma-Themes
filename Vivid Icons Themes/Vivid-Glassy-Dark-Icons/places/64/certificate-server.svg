@@ -24,12 +24,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="996"
      id="namedview19"
      showgrid="true"
      inkscape:zoom="2"
      inkscape:cx="39.5"
-     inkscape:cy="53.25"
+     inkscape:cy="53"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -355,19 +355,6 @@
          stop-opacity="0.8"
          id="stop14" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter1"
-       x="-0.078914099"
-       y="-0.060220232"
-       width="1.1578282"
-       height="1.1204405">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.5556894"
-         id="feGaussianBlur1" />
-    </filter>
   </defs>
   <metadata
      id="metadata5458">
@@ -386,7 +373,6 @@
      id="layer1"
      transform="translate(-384.57143,-483.798)">
     <g
-       filter="url(#filter0_df_77:20)"
        id="g2"
        transform="matrix(0.78409091,0,0,0.78409091,411.74416,501.88664)"
        style="opacity:0.718193">
@@ -400,7 +386,6 @@
          style="fill:url(#linearGradient2);fill-opacity:1" />
     </g>
     <g
-       filter="url(#filter1_b_77:20)"
        id="g3"
        transform="matrix(0.78409091,0,0,0.78409091,411.74416,501.88664)">
       <rect
@@ -414,9 +399,9 @@
          x="0" />
     </g>
     <path
-       d="m 496.61628,569.52508 h -1.70154 l -0.005,-8.48015 c -0.005,-9.238 -7.52267,-16.75385 -16.76062,-16.74693 -9.238,0.0103 -16.75379,7.52272 -16.74692,16.76072 l 0.0207,8.48021 h -0.60554 c -3.17569,0.0103 -5.7522,2.58328 -5.74533,5.75907 v 25.24779 c 0,3.1758 2.58333,5.75221 5.75913,5.75221 l 35.80851,-0.0207 c 3.17574,0 5.75215,-2.57646 5.74523,-5.7522 v -25.25451 c 0,-3.17574 -2.58323,-5.74533 -5.75908,-5.74533 z m -29.02969,0.0155 -0.0207,-8.48021 c 0,-5.83487 4.73954,-10.58133 10.57441,-10.5882 5.83492,0 10.58133,4.74641 10.58133,10.57441 l 0.0155,8.48026 z"
+       d="m 491.11628,567.02508 h -1.70154 l -0.005,-8.48015 c -0.005,-9.238 -7.52267,-16.75385 -16.76062,-16.74693 -9.238,0.0103 -16.75379,7.52272 -16.74692,16.76072 l 0.0207,8.48021 h -0.60554 c -3.17569,0.0103 -5.7522,2.58328 -5.74533,5.75907 v 25.24779 c 0,3.1758 2.58333,5.75221 5.75913,5.75221 l 35.80851,-0.0207 c 3.17574,0 5.75215,-2.57646 5.74523,-5.7522 v -25.25451 c 0,-3.17574 -2.58323,-5.74533 -5.75908,-5.74533 z m -29.02969,0.0155 -0.0207,-8.48021 c 0,-5.83487 4.73954,-10.58133 10.57441,-10.5882 5.83492,0 10.58133,4.74641 10.58133,10.57441 l 0.0155,8.48026 z"
        id="path2-3-0"
-       style="color:#d6dbf1;fill:#eff0f1;fill-opacity:0.58401084;stroke-width:0.688872;filter:url(#filter1)"
+       style="color:#d6dbf1;fill:#eff0f1;fill-opacity:0.584011;stroke-width:0.688872"
        class="ColorScheme-Text " />
   </g>
 </svg>

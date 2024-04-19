@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.6045885"
      inkscape:cx="102.8301"
-     inkscape:cy="101.89528"
+     inkscape:cy="101.58368"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,18 +38,18 @@
      height="134"
      rx="15"
      id="rect1"
-     style="fill:url(#linearGradient2);fill-opacity:1;filter:url(#filter0_df_77:20);opacity:0.67419738"
+     style="fill:url(#linearGradient2);fill-opacity:1;;opacity:0.67419738"
      transform="matrix(0,0.82835375,-0.93747664,0,158.43532,25.62683)" />
   <rect
      y="1"
      width="125"
      height="150"
      rx="15"
-     fill="url(#paint1_linear_77:20)"
      id="rect2"
-     style="fill:url(#paint1_linear_77:20);filter:url(#filter1_b_77:20)"
      x="0"
-     transform="matrix(0,0.82835375,-0.93747664,0,158.43532,25.62683)" />
+     transform="matrix(0,0.82835375,-0.93747664,0,158.43532,25.62683)"
+     style="fill:url(#paint1_linear_77:20)"
+     fill="url(#paint1_linear_77:20)" />
   <defs
      id="defs36">
     <linearGradient
@@ -597,24 +597,11 @@
        y2="94.302002"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(0,-3.399984)" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter7"
-       x="-0.10803308"
-       y="-0.10796693"
-       width="1.2160662"
-       height="1.2159339">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="2.6541874"
-         id="feGaussianBlur7" />
-    </filter>
   </defs>
   <path
      d="m 100.53555,87.552136 c -4.180877,5.09331 -11.313081,13.183064 -11.313081,13.183064 0,0 0.94513,9.55246 1.622918,15.86157 0.293973,3.21231 -2.020921,4.59999 -4.644809,3.34888 -4.989541,-2.50803 -12.751066,-7.41066 -14.459816,-8.28455 -1.738484,0.86762 -9.244621,5.70504 -14.284023,8.20698 -2.654065,1.24817 -4.995321,-0.13962 -4.698215,-3.34587 0.68671,-6.29672 1.501113,-15.78724 1.501113,-15.78724 0,0 -7.072873,-8.128131 -11.30431,-13.215298 -1.494485,-1.848374 -0.534645,-4.475168 2.413046,-4.956589 6.014422,-1.138091 15.330451,-1.49439 15.330451,-1.49439 0,0 5.096183,-10.849916 8.320238,-16.605652 1.773924,-3.500515 3.001189,-3.096413 3.212065,-2.99233 0.546947,0.187217 1.411634,0.867686 2.5378,2.995304 3.188619,5.761828 7.897877,16.602353 7.897877,16.602353 0,0 9.539246,0.380018 15.482717,1.518097 2.911819,0.487327 3.862719,3.117208 2.385819,4.96552 z"
      stroke-width="0.0580761"
      p-id="13941"
      id="path38"
-     style="fill:url(#linearGradient7);fill-opacity:1;filter:url(#filter7)" />
+     style="fill:url(#linearGradient7);fill-opacity:1" />
 </svg>
