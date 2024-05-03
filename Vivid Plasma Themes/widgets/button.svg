@@ -5,7 +5,7 @@
    version="1"
    id="svg270"
    sodipodi:docname="button.svg"
-   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -19,7 +19,7 @@
 </style>
   <sodipodi:namedview
      id="namedview272"
-     pagecolor="#02334b"
+     pagecolor="#034463"
      bordercolor="#000000"
      borderopacity="1"
      inkscape:pageshadow="2"
@@ -28,9 +28,9 @@
      showgrid="true"
      inkscape:zoom="2.842803"
      inkscape:cx="125.22852"
-     inkscape:cy="76.86076"
+     inkscape:cy="76.684878"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,7 +38,7 @@
      showguides="true"
      inkscape:lockguides="true"
      inkscape:showpageshadow="true"
-     inkscape:deskcolor="#02334b">
+     inkscape:deskcolor="#034463">
     <inkscape:grid
        type="xygrid"
        id="grid8101"
@@ -562,7 +562,7 @@
        class="ColorScheme-ViewBackground" />
     <path
        id="path1039-0-2"
-       style="fill:#394260;fill-opacity:0.65098035;stroke-width:0.5;stop-color:#eff0f1"
+       style="fill:#394260;fill-opacity:0.65098;stroke-width:0.5;stop-color:#eff0f1"
        d="m -24.783728,2 c -3,0 -5,2 -5,5 l 0.555544,-1.11e-5 c 2.7e-5,-2.6666611 1.777783,-4.4444449 4.444445,-4.4444449 z"
        sodipodi:nodetypes="ccccc"
        class="ColorScheme-Text" />
@@ -584,7 +584,7 @@
        class="ColorScheme-ViewBackground" />
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
-       style="fill:#394260;fill-opacity:0.65098041;stroke:none;stroke-width:0.416853"
+       style="fill:#394260;fill-opacity:0.65098;stroke:none;stroke-width:0.416853"
        id="rect985-75-9"
        width="0.55599999"
        height="6.000319"
@@ -610,7 +610,7 @@
        class="ColorScheme-ViewBackground" />
     <path
        id="path1039-0-3-1"
-       style="fill:#394260;fill-opacity:0.65098041;stroke-width:0.5;stop-color:#eff0f1"
+       style="fill:#394260;fill-opacity:0.65098;stroke-width:0.5;stop-color:#eff0f1"
        d="m -13.78375,7 c 0,-3 -2,-5 -5,-5 l 1.1e-5,0.555544 c 2.666661,2.7e-5 4.444445,1.777783 4.444445,4.444445 z"
        sodipodi:nodetypes="ccccc"
        class="ColorScheme-Text" />
@@ -632,7 +632,7 @@
        class="ColorScheme-ViewBackground" />
     <rect
        transform="scale(1,-1)"
-       style="fill:#394260;fill-opacity:0.65098041;stroke:none;stroke-width:0.416853"
+       style="fill:#394260;fill-opacity:0.65098;stroke:none;stroke-width:0.416853"
        id="rect985-75-3-2"
        width="0.55599999"
        height="6.000319"
@@ -657,7 +657,7 @@
        class="ColorScheme-ViewBackground" />
     <rect
        transform="scale(1,-1)"
-       style="fill:#394260;fill-opacity:0.65098041;stroke:none;stroke-width:0.416853"
+       style="fill:#394260;fill-opacity:0.65098;stroke:none;stroke-width:0.416853"
        id="rect985-75-3-2-7"
        width="0.55599999"
        height="6.000319"
@@ -683,7 +683,7 @@
        class="ColorScheme-ViewBackground" />
     <path
        id="path1039-0-3-7-0"
-       style="fill:#394260;fill-opacity:0.65098041;stroke-width:0.5;stop-color:#eff0f1"
+       style="fill:#394260;fill-opacity:0.65098;stroke-width:0.5;stop-color:#eff0f1"
        d="m -29.784,12.999989 c 0,3 2,5 5,5 l -1.1e-5,-0.555544 C -27.450672,17.444418 -29.228456,15.666662 -29.228456,13 Z"
        sodipodi:nodetypes="ccccc"
        class="ColorScheme-Text" />
@@ -706,7 +706,7 @@
        class="ColorScheme-ViewBackground" />
     <path
        id="path1039-0-3-6-9"
-       style="fill:#394260;fill-opacity:0.65098041;stroke-width:0.5;stop-color:#eff0f1"
+       style="fill:#394260;fill-opacity:0.65098;stroke-width:0.5;stop-color:#eff0f1"
        d="m -18.78375,18 c 3,0 5.000011,-2 5.000011,-5 l -0.555555,1.1e-5 c -2.7e-5,2.666661 -1.777783,4.444445 -4.444445,4.444445 z"
        sodipodi:nodetypes="ccccc"
        class="ColorScheme-Text" />
@@ -728,7 +728,7 @@
        class="ColorScheme-ViewBackground" />
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
-       style="fill:#394260;fill-opacity:0.65098041;stroke:none;stroke-width:0.416842"
+       style="fill:#394260;fill-opacity:0.65098;stroke:none;stroke-width:0.416842"
        id="rect985-75-5-3"
        width="0.55599999"
        height="6"
