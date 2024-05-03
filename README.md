@@ -54,13 +54,12 @@ Update: hack-dark.rc
 Aurorae Themes
 --------------
 
-Update:metadata.desktop
+Update: metadata.desktop
 
 Plasma Theme
 ------------
 
 Update widget: button.svg
--------------------------
 
 Icons
 -----
