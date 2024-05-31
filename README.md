@@ -43,13 +43,13 @@ _________________________________
 
 
 
-Changelog: 24.05.2024.
+Changelog: 31.05.2024.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: gtkrc
+Update: gtk-4.0
 
 Aurorae Themes
 --------------
@@ -59,7 +59,7 @@ Update: metadata.desktop
 Plasma Theme
 ------------
 
-Update widget: menubaritem.svg
+Update widget: slider.svg
 
 Icons
 -----
