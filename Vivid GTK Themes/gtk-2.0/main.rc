@@ -2535,7 +2535,7 @@ widget_class "*<GtkNotebook>*<GtkScrolledWindow>*<GtkViewport>"    style "notebo
 widget_class "*<GtkNotebook>*<GimpRuler>"                          style "notebook_bg"
 widget_class "*<GtkNotebook>.<GimpDisplayShell>*<GtkEventBox>"     style "notebook_bg"
 widget_class "*<GtkNotebook>*<GtkComboBoxEntry>*"                  style "notebook_combo"
-widget_class "*<GtkNotebook>*<GtkCombo>*"                          style "notebook_combo"
+widget_class "*<GtkNotebook>*<GtkCombo>*"style "notebook_combo"
 
 # However, stuff inside eventboxes inside notebooks is grey
 # again, react
