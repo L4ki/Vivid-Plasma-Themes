@@ -145,7 +145,7 @@ widget_class "*MousepadSearchBar*.<GtkEntry>"         style "entry_border"
 widget_class "*MousepadReplaceDialog*.<GtkEntry>"     style "entry_border"
 
 # Thunar bulk rename
-widget_class "*ThunarRenamerDialog*.<GtkEntry>"         style "entry_border"
+widget_class "*ThunarRenamerDialog*.<GtkEntry>"style "entry_border"
 
 # Hexchat input box
 class "SexySpellEntry"style:highest "entry_border"
