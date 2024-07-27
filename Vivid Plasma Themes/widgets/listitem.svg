@@ -36,9 +36,9 @@
      bordercolor="#000000"
      pagecolor="#02334b"
      id="base"
-     inkscape:zoom="4.0000002"
-     inkscape:cx="51.749998"
-     inkscape:cy="69.624997"
+     inkscape:zoom="2.8284273"
+     inkscape:cx="35.355337"
+     inkscape:cy="25.63262"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -6338,22 +6338,16 @@
        id="separator1" />
   </g>
   <g
-     id="g2549"
-     transform="translate(0,10)"
-     style="fill:#035e8b;fill-opacity:0.2">
-    <g
-       id="hover-center"
-       style="fill:#035e8b;fill-opacity:0.2">
-      <rect
-         style="color:#565d8a;display:inline;overflow:visible;visibility:visible;fill:#035e8b;fill-opacity:0.2;fill-rule:nonzero;stroke:none;stroke-width:1.4;marker:none;enable-background:accumulate;stop-color:#565d8a"
-         id="section-center-1"
-         width="6"
-         height="6"
-         x="92.000008"
-         y="19.000044"
-         inkscape:label="#section-center"
-         class="ColorScheme-Highlight" />
-    </g>
+     id="hover-center">
+    <rect
+       style="color:#565d8a;display:inline;overflow:visible;visibility:visible;fill:#035e8b;fill-opacity:0.2;fill-rule:nonzero;stroke:none;stroke-width:1.4;marker:none;enable-background:accumulate;stop-color:#565d8a"
+       id="section-center-1"
+       width="6"
+       height="6"
+       x="92.000008"
+       y="29.000044"
+       inkscape:label="#section-center"
+       class="ColorScheme-Highlight" />
   </g>
   <g
      id="hover-top"
@@ -6376,28 +6370,22 @@
        class="ColorScheme-Highlight" />
   </g>
   <g
-     id="section-left-2"
-     transform="translate(78.000008,-78.999985)"
-     style="fill:#035e8b;fill-opacity:0.2">
-    <g
-       id="hover-left"
-       style="fill:#035e8b;fill-opacity:0.2">
-      <rect
-         y="107.99998"
-         x="5"
-         height="6"
-         width="7"
-         id="rect4846-6-6-4-5-3-4-1-7-9-5-0"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#035e8b;fill-opacity:0.2;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
-    </g>
+     id="hover-left">
+    <rect
+       y="28.999992"
+       x="83.000008"
+       height="6"
+       width="7"
+       id="rect4846-6-6-4-5-3-4-1-7-9-5-0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.01;fill:#035e8b;fill-opacity:0.2;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate" />
     <rect
        transform="rotate(-90)"
-       y="5.9999847"
-       x="-113.99998"
+       y="83.999992"
+       x="-34.999992"
        height="6"
        width="6"
        id="rect4846-4-6-1-3-5-6-7-2"
-       style="color:#565d8a;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#035e8b;fill-opacity:0.2;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate;stop-color:#565d8a"
+       style="color:#565d8a;display:inline;overflow:visible;visibility:visible;fill:#035e8b;fill-opacity:0.2;fill-rule:nonzero;stroke:none;stroke-width:0.732;marker:none;enable-background:accumulate;stop-color:#565d8a"
        class="ColorScheme-Highlight" />
   </g>
   <g
@@ -6529,7 +6517,7 @@
        height="2.99998"
        x="15"
        y="99.000023"
-       transform="matrix(1,0,0,1.6666718,78.000008,-155.0005)" />
+       transform="matrix(1,0,0,1.6666718,78.000008,-161.70055)" />
   </g>
   <g
      id="hover-hint-right-margin"
@@ -6542,7 +6530,7 @@
        height="3"
        x="29"
        y="16.5"
-       transform="matrix(1.3333267,0,0,1,64.333525,4.5000153)" />
+       transform="matrix(1.3333267,0,0,1,71.033526,4.5000153)" />
   </g>
   <g
      id="hover-hint-left-margin"
@@ -6555,7 +6543,7 @@
        width="3.0000002"
        id="section-hint-left-margin-4"
        style="opacity:0.01;fill:#035e8b;fill-opacity:0.2;fill-rule:nonzero;stroke:none;filter:url(#filter3792-1-2)"
-       transform="matrix(1.2333332,0,0,1,78.066676,3.5000153)" />
+       transform="matrix(1.2333332,0,0,1,70.866667,3.5)" />
   </g>
   <g
      id="hover-hint-bottom-margin"
