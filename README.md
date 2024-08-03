@@ -43,13 +43,13 @@ _________________________________
 
 
 
-Changelog: 27.07.2024.
+Changelog: 03.08.2024.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: gtk-4.0
+Update: gtkrc
 
 Aurorae Themes
 --------------
