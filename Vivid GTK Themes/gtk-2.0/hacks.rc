@@ -22,7 +22,7 @@ style "vim_notebook" {
 
 # Vim puts an eventbox between the tab and the label and colours it,
 # we need to handle that
-widget "vim-main-window*GtkNotebook.GtkEventBox" style "vim_notebook"
+widget "vim-main-window*GtkNotebook.GtkEventBox"style "vim_notebook"
 
 # (he)xchat input box
 class "SexySpellEntry"style:highest "normal_entry"
