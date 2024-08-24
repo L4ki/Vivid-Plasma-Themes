@@ -16,7 +16,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <style
-     id="style2457"></style>
+     id="style2457" />
   <metadata
      id="metadata204">
     <rdf:RDF>
@@ -36,12 +36,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="70.358742"
-     inkscape:cx="91.891534"
-     inkscape:zoom="3.6456024"
+     inkscape:cy="70.221591"
+     inkscape:cx="61.992498"
+     inkscape:zoom="1.8228012"
      showgrid="true"
      id="namedview202"
-     inkscape:window-height="994"
+     inkscape:window-height="1004"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -380,142 +380,6 @@
      id="shadow-center"
      style="color:#eff0f1;opacity:0.01;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.375003" />
   <rect
-     y="68"
-     x="-54.999966"
-     height="11.999977"
-     width="4"
-     id="shadow-hint-bottom-margin"
-     style="fill:#7e36f4;fill-opacity:1;stroke:none;stroke-width:1.41421;opacity:1" />
-  <rect
-     y="68"
-     x="-49"
-     height="11.999977"
-     width="3.9999998"
-     id="shadow-hint-bottom-inset"
-     style="fill:#d63384;fill-opacity:1;stroke:none;stroke-width:1.41421;opacity:1" />
-  <rect
-     style="fill:#fea75f;fill-opacity:1;stroke:none;stroke-width:0.182575;opacity:1"
-     id="hint-bottom-inset"
-     width="4"
-     height="8"
-     x="-49"
-     y="60" />
-  <g
-     id="hint-bottom-margin"
-     style="opacity:1">
-    <rect
-       style="opacity:1;fill:#17a2b8;fill-opacity:1;stroke:none;stroke-width:1"
-       id="hint-bottom-margin-3"
-       width="4"
-       height="8"
-       x="-55"
-       y="60" />
-  </g>
-  <rect
-     style="fill:#7e36f4;fill-opacity:1;stroke:none;stroke-width:1.41422;opacity:1"
-     id="shadow-hint-top-margin"
-     width="4"
-     height="12"
-     x="-48.999966"
-     y="5.000061" />
-  <rect
-     style="fill:#d63384;fill-opacity:1;stroke:none;stroke-width:1.41422;opacity:1"
-     id="shadow-hint-top-inset"
-     width="3.9999998"
-     height="12"
-     x="-55"
-     y="5" />
-  <rect
-     y="17.000002"
-     x="-55"
-     height="8"
-     width="4"
-     id="hint-top-inset"
-     style="fill:#fea75f;fill-opacity:1;stroke:none;stroke-width:1.15469;opacity:1" />
-  <g
-     id="hint-top-margin"
-     style="opacity:1">
-    <rect
-       y="17.000063"
-       x="-49"
-       height="8"
-       width="4"
-       id="hint-top-margin-6"
-       style="opacity:1;fill:#17a2b8;fill-opacity:1;stroke:none;stroke-width:1.15469" />
-  </g>
-  <rect
-     style="fill:#7e36f4;fill-opacity:1;stroke:none;stroke-width:1.41421;opacity:1"
-     id="shadow-hint-left-margin"
-     width="4.0000229"
-     height="12"
-     x="35"
-     y="77.999962"
-     transform="rotate(90)" />
-  <rect
-     style="fill:#d63384;fill-opacity:1;stroke:none;stroke-width:1.41421;opacity:1"
-     id="shadow-hint-left-inset"
-     width="4"
-     height="12"
-     x="41"
-     y="78"
-     transform="rotate(90)" />
-  <rect
-     transform="rotate(90)"
-     y="70"
-     x="41"
-     height="8"
-     width="4"
-     id="hint-left-inset"
-     style="fill:#fea75f;fill-opacity:1;stroke:none;stroke-width:0.182574;opacity:1" />
-  <g
-     id="hint-left-margin"
-     style="opacity:1">
-    <rect
-       transform="rotate(90)"
-       y="69.999962"
-       x="35"
-       height="8"
-       width="4"
-       id="hint-left-margin-7"
-       style="opacity:1;fill:#17a2b8;fill-opacity:1;stroke:none;stroke-width:0.999999" />
-  </g>
-  <rect
-     y="14.999968"
-     x="41"
-     height="12"
-     width="3.9999769"
-     id="shadow-hint-right-margin"
-     style="fill:#7e36f4;fill-opacity:1;stroke:none;stroke-width:1.41422;opacity:1"
-     transform="rotate(90)" />
-  <rect
-     y="15.000006"
-     x="35"
-     height="12"
-     width="3.9999769"
-     id="shadow-hint-right-inset"
-     style="fill:#d63384;fill-opacity:1;stroke:none;stroke-width:1.41422;opacity:1"
-     transform="rotate(90)" />
-  <rect
-     transform="rotate(90)"
-     style="fill:#fea75f;fill-opacity:1;stroke:none;stroke-width:0.182574;opacity:1"
-     id="hint-right-inset"
-     width="4"
-     height="8"
-     x="35"
-     y="27" />
-  <g
-     id="hint-right-margin"
-     style="opacity:1">
-    <rect
-       transform="rotate(90)"
-       style="fill:#17a2b8;fill-opacity:1;stroke:none;stroke-width:0.999999"
-       id="hint-right-margin-5"
-       width="4"
-       height="8"
-       x="41"
-       y="26.999962" />
-  </g>
-  <rect
      style="stroke:none;fill-opacity:1;fill:#161826;opacity:1"
      id="thick-center"
      width="32"
@@ -523,76 +387,12 @@
      x="223.38127"
      y="13.508359" />
   <rect
-     transform="rotate(90)"
-     style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.957426"
-     id="thick-hint-right-margin"
-     width="4"
-     height="5.5"
-     x="33.508358"
-     y="-257.88113" />
-  <rect
-     transform="rotate(90)"
-     y="-221.88118"
-     x="33.508358"
-     height="5.5"
-     width="4"
-     id="thick-hint-left-margin"
-     style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.957425" />
-  <rect
-     y="7.5083594"
-     x="242.38127"
-     height="8"
-     width="4"
-     id="thick-hint-top-margin"
-     style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1.1547" />
-  <rect
-     style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1.1547"
-     id="thick-hint-bottom-margin"
-     width="4"
-     height="8"
-     x="243.38127"
-     y="43.508362" />
-  <rect
      style="opacity:0.01;fill:#0066ff;fill-opacity:0.74902;stroke:none;stroke-width:1.2;stroke-linejoin:round;paint-order:fill markers stroke"
      id="floating-center"
      width="33.429161"
      height="33.429161"
      x="64.640266"
      y="-105.09598" />
-  <rect
-     style="fill:#0066ff;fill-opacity:0.98931;stroke:none;stroke-width:0.584995;stroke-linejoin:round;paint-order:fill markers stroke;opacity:1"
-     id="floating-hint-bottom-margin"
-     height="4.9479346"
-     x="5.6215363"
-     y="-75.848083"
-     rx="0"
-     ry="0"
-     width="3.855" />
-  <rect
-     style="fill:#0066ff;fill-opacity:0.98931;stroke:none;stroke-width:0.809333;stroke-linejoin:round;paint-order:fill markers stroke;opacity:1"
-     id="floating-hint-top-margin"
-     height="9.4704647"
-     x="5"
-     y="-110"
-     rx="0"
-     ry="0"
-     width="3.855" />
-  <rect
-     transform="rotate(90)"
-     style="fill:#0066ff;fill-opacity:0.996078;stroke:none;stroke-width:1.34068;opacity:1"
-     id="floating-hint-right-margin"
-     width="4"
-     height="10.784461"
-     x="-87.303406"
-     y="-35.033321" />
-  <rect
-     transform="rotate(90)"
-     y="5.3580847"
-     x="-94"
-     height="9.6419153"
-     width="4"
-     id="floating-hint-left-margin"
-     style="fill:#0066ff;fill-opacity:0.996078;stroke:none;stroke-width:1.26767;opacity:1" />
   <g
      id="shadow-topleft"
      transform="matrix(0.67578242,0,0,0.6757886,179.83624,-533.08067)">
@@ -1025,4 +825,150 @@
        class=" "
        sodipodi:nodetypes="ccscccccccc" />
   </g>
+  <rect
+     id="shadow-hint-top-margin"
+     height="10"
+     style="fill:#ff00ff"
+     width="2"
+     x="50"
+     y="85" />
+  <rect
+     id="shadow-hint-bottom-margin"
+     height="10"
+     style="fill:#ff00ff"
+     width="2"
+     x="50"
+     y="139" />
+  <rect
+     id="shadow-hint-top-inset"
+     height="10"
+     style="fill:#00ff00"
+     width="2"
+     x="54"
+     y="85" />
+  <rect
+     id="shadow-hint-bottom-inset"
+     height="10"
+     style="fill:#00ff00"
+     width="2"
+     x="54"
+     y="139" />
+  <rect
+     id="shadow-hint-right-margin"
+     height="2"
+     style="fill:#ff00ff"
+     width="10"
+     x="75"
+     y="118" />
+  <rect
+     id="shadow-hint-left-margin"
+     height="2"
+     style="fill:#ff00ff"
+     width="10"
+     x="21"
+     y="114" />
+  <rect
+     id="shadow-hint-right-inset"
+     height="2"
+     style="fill:#00ff00"
+     width="10"
+     x="75"
+     y="114" />
+  <rect
+     id="shadow-hint-left-inset"
+     height="2"
+     style="fill:#00ff00"
+     width="10"
+     x="21"
+     y="118" />
+  <rect
+     id="hint-right-margin"
+     height="4"
+     style="fill:#ff00ff;stroke-width:0.999996"
+     width="4"
+     x="-64.758041"
+     y="33.999863" />
+  <rect
+     id="hint-left-margin"
+     height="4"
+     style="fill:#ff00ff;stroke-width:0.999996"
+     width="4"
+     x="-104.75804"
+     y="33.999863" />
+  <rect
+     id="hint-left-inset"
+     height="4"
+     style="fill:#00ff00"
+     width="9.9999999e-09"
+     x="-104.75804"
+     y="33.999863" />
+  <rect
+     id="hint-right-inset"
+     height="4"
+     style="fill:#00ff00"
+     width="9.9999999e-09"
+     x="-60.758041"
+     y="33.999863" />
+  <rect
+     id="hint-top-margin"
+     height="4"
+     style="fill:#ff00ff;stroke-width:0.999996"
+     width="4"
+     x="-84"
+     y="15" />
+  <rect
+     id="hint-bottom-margin"
+     height="4"
+     style="fill:#ff00ff;stroke-width:0.999996"
+     width="4"
+     x="-84"
+     y="55" />
+  <rect
+     id="hint-top-inset"
+     height="9.9999999e-09"
+     style="fill:#00ff00"
+     width="4"
+     x="-84"
+     y="15" />
+  <rect
+     id="hint-bottom-inset"
+     height="9.9999999e-09"
+     style="fill:#00ff00"
+     width="4"
+     x="-84"
+     y="59" />
+  <rect
+     style="fill:#0066ff;fill-opacity:0.98931;stroke:none;stroke-width:0.584995;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="floating-hint-bottom-margin"
+     height="9"
+     x="51.872665"
+     y="-42.544678"
+     rx="0"
+     ry="0"
+     width="4" />
+  <rect
+     style="fill:#0066ff;fill-opacity:0.98931;stroke:none;stroke-width:0.809333;stroke-linejoin:round;paint-order:fill markers stroke"
+     id="floating-hint-top-margin"
+     height="9"
+     x="51.251129"
+     y="-76.696594"
+     rx="0"
+     ry="0"
+     width="4" />
+  <rect
+     transform="rotate(90)"
+     style="fill:#0066ff;fill-opacity:0.996078;stroke:none;stroke-width:1.34068"
+     id="floating-hint-right-margin"
+     width="4"
+     height="9"
+     x="-54"
+     y="-79.5" />
+  <rect
+     transform="rotate(90)"
+     y="-40.251129"
+     x="-60.696594"
+     height="9"
+     width="4"
+     id="floating-hint-left-margin"
+     style="fill:#0066ff;fill-opacity:0.996078;stroke:none;stroke-width:1.26767" />
 </svg>
