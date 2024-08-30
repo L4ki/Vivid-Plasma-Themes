@@ -2,7 +2,7 @@
 <svg
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    width="19"
    height="19"
    sodipodi:docname="toolbar.svg"
@@ -20,9 +20,10 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <style
      id="current-color-scheme"
-     type="text/css">.ColorScheme-Background { siop-color:#1d212f;    color:#1d212f; }&#10;</style>
+     type="text/css">.ColorScheme-Background { siop-color:#1d212f;    color:#1d212f; }
+</style>
   <sodipodi:namedview
-     inkscape:window-height="994"
+     inkscape:window-height="1003"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -31,7 +32,7 @@
      objecttolerance="10.0"
      borderopacity="1"
      bordercolor="#000000"
-     pagecolor="#02334b"
+     pagecolor="#02293c"
      id="base"
      inkscape:zoom="11.313709"
      inkscape:cx="16.086679"
@@ -57,7 +58,7 @@
      inkscape:pagecheckerboard="true"
      inkscape:lockguides="true"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#02334b">
+     inkscape:deskcolor="#02293c">
     <inkscape:grid
        id="grid1"
        units="px"
@@ -68,7 +69,7 @@
        empcolor="#0099e5"
        empopacity="0.30196078"
        color="#0099e5"
-       opacity="0.14901961"
+       opacity="0.14902"
        empspacing="5"
        dotted="false"
        gridanglex="30"
