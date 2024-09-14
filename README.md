@@ -59,7 +59,7 @@ Update: metadata.desktop
 Plasma Theme
 ------------
 
-Update widget: panel-background.svg
+Update widget: panel-background.svg (Improved Panel appearance when brighter backgrounds are used)
 
 Icons
 -----
