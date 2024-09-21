@@ -43,13 +43,13 @@ _________________________________
 
 
 
-Changelog: 14.09.2024.
+Changelog: 21.09.2024.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: gtk-3.0
+Update: gtk-4.0
 
 Aurorae Themes
 --------------
@@ -59,7 +59,7 @@ Update: metadata.desktop
 Plasma Theme
 ------------
 
-Update widget: panel-background.svg (Improved Panel appearance when brighter backgrounds are used)
+Update widget: plasmoidheading
 
 Icons
 -----
