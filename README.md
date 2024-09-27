@@ -43,13 +43,13 @@ _________________________________
 
 
 
-Changelog: 21.09.2024.
+Changelog: 28.09.2024.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: gtk-4.0
+Update: gtkrc
 
 Aurorae Themes
 --------------
@@ -59,12 +59,12 @@ Update: metadata.desktop
 Plasma Theme
 ------------
 
-Update widget: plasmoidheading
+Update widget: tabbar
 
 Icons
 -----
 
-Added new icons: apps 48
+Added new icons: actions
 
 
 
