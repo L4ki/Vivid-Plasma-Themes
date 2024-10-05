@@ -2539,7 +2539,7 @@ widget_class "*<GtkNotebook>*<GtkCombo>*"style "notebook_combo"
 
 # However, stuff inside eventboxes inside notebooks is grey
 # again, react
-widget_class "*<GtkNotebook>*<GtkEventBox>*<GtkEntry>"style "normal_entry"
+widget_class "*<GtkNotebook>*<GtkEventBox>*<GtkEntry>" style "normal_entry"
 widget_class "*<GtkNotebook>*<GtkEventBox>*<GtkProgressBar>"style "normal_bg"
 widget_class "*<GtkNotebook>*<GtkEventBox>*<GtkSpinButton>"style "normal_bg"
 widget_class "*<GtkNotebook>*<GtkEventBox>*<GtkComboBoxEntry>*"style "combobox_entry"
