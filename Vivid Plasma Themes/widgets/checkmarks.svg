@@ -6,7 +6,7 @@
    sodipodi:docname="checkmarks.svg"
    width="44"
    height="26"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -15,7 +15,7 @@
      id="defs41" />
   <sodipodi:namedview
      id="namedview39"
-     pagecolor="#02334b"
+     pagecolor="#022c41"
      bordercolor="#000000"
      borderopacity="1"
      inkscape:pageshadow="2"
@@ -24,18 +24,18 @@
      showgrid="true"
      height="32px"
      inkscape:current-layer="svg2"
-     inkscape:zoom="6.9384858"
-     inkscape:cx="10.376904"
-     inkscape:cy="13.187315"
+     inkscape:zoom="9.8125007"
+     inkscape:cx="22.726113"
+     inkscape:cy="28.076431"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:lockguides="false"
      inkscape:showpageshadow="true"
-     inkscape:deskcolor="#02334b">
+     inkscape:deskcolor="#022c41">
     <inkscape:grid
        type="xygrid"
        id="grid919"
@@ -48,7 +48,12 @@
   </sodipodi:namedview>
   <style
      type="text/css"
-     id="current-color-scheme">&#10;.ColorScheme-Text { &#10;    color:#f2f2f2;&#10;}&#10;.ColorScheme-Highlight { color:#147ab4; }&#10;</style>
+     id="current-color-scheme">
+.ColorScheme-Text { 
+    color:#f2f2f2;
+}
+.ColorScheme-Highlight { color:#147ab4; }
+</style>
   <g
      id="checkbox"
      transform="translate(5,5)">
