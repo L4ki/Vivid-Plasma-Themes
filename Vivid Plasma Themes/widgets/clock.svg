@@ -7,7 +7,7 @@
    version="1.0"
    height="250"
    width="250"
-   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:version="0.32"
    id="svg2"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,7 +28,7 @@
      inkscape:current-layer="svg2"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="151.15182"
+     inkscape:cy="150.86058"
      inkscape:cx="147.94822"
      inkscape:zoom="1.7168169"
      height="250px"
@@ -37,7 +37,7 @@
      inkscape:guide-bbox="true"
      showguides="true"
      id="base"
-     pagecolor="#00344d"
+     pagecolor="#00293d"
      bordercolor="#030303"
      borderopacity="1"
      objecttolerance="10.0"
@@ -49,7 +49,7 @@
      inkscape:window-height="994"
      inkscape:pagecheckerboard="true"
      inkscape:showpageshadow="true"
-     inkscape:deskcolor="#02334b">
+     inkscape:deskcolor="#02293c">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
        enabled="true"
@@ -354,10 +354,10 @@
        xlink:href="#linearGradient5346"
        id="linearGradient2387"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,1,-1,0,230.45987,-0.855324)"
+       gradientTransform="rotate(90,115.6576,114.80227)"
        x1="108.89576"
        y1="125.36458"
-       x2="219.98951"
+       x2="219.98952"
        y2="125.36458" />
     <radialGradient
        inkscape:collect="always"
@@ -393,7 +393,7 @@
        xlink:href="#linearGradient3897"
        inkscape:collect="always" />
     <radialGradient
-       r="167.76864"
+       r="167.76865"
        fy="307.76865"
        fx="150"
        cy="307.76865"
@@ -486,7 +486,7 @@
        xlink:href="#linearGradient3897"
        inkscape:collect="always" />
     <radialGradient
-       r="167.76864"
+       r="167.76865"
        fy="307.76865"
        fx="150"
        cy="307.76865"
@@ -631,7 +631,7 @@
        xlink:href="#linearGradient5346-4"
        id="linearGradient2387-0"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,1,-1,0,376.45987,-0.85532)"
+       gradientTransform="rotate(90,188.6576,187.80227)"
        x1="108.89576"
        y1="125.36458"
        x2="219.98952"
