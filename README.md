@@ -43,13 +43,13 @@ _________________________________
 
 
 
-Changelog: 19.10.2024.
+Changelog: 26.10.2024.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: hacks.rc
+Update: styles
 
 Aurorae Themes
 --------------
@@ -59,7 +59,7 @@ Update: metadata.desktop
 Plasma Theme
 ------------
 
-Update widget: clock.svg
+Update widget: containment-controls.svg
 
 Icons
 -----
