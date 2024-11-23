@@ -3,7 +3,7 @@
    id="svg24"
    version="1.1"
    viewBox="0 0 16 16"
-   sodipodi:docname="org.upscayl.Upscayl.svg"
+   sodipodi:docname="upscayl.svg"
    width="16"
    height="16"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
@@ -182,12 +182,10 @@
   <path
      id="circle16-6-6"
      d="m 7.9962187,13.516517 a 5.529999,5.5231716 0 0 0 0.00378,0 5.529999,5.5231716 0 0 0 5.5299993,-5.5231714 5.529999,5.5231716 0 0 0 -5.5299993,-5.5231716 5.529999,5.5231716 0 0 0 -0.00324,0 z"
-     fill="#39fea0"
      style="stroke-width:0.276329;fill:#4791ce;fill-opacity:1" />
   <path
      id="path915-2-1"
      d="M 7.9962187,13.516517 7.9967717,2.470174 A 5.529999,5.5231716 0 0 0 2.47,7.9933456 5.529999,5.5231716 0 0 0 7.9962187,13.516517 Z"
-     fill="#1f4855"
      style="stroke-width:0.276329;fill:#92bee2;fill-opacity:1" />
   <path
      id="path22-1-9"

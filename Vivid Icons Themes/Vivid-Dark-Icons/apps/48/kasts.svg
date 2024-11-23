@@ -5,7 +5,7 @@
    height="16"
    viewBox="0 0 16 16"
    id="svg2"
-   sodipodi:docname="org.kde.kasts.svg"
+   sodipodi:docname="kasts.svg"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -664,7 +664,6 @@
     <path
        style="fill:url(#linearGradient2);stroke-width:0.753;stroke:url(#linearGradient4);stroke-dasharray:none"
        d="M 8.0024152,3.2267988 4.0010261,14.507284 h 0.7733167 l 1.5630048,-4.407843 4.6884644,4.407843 h 0.975214 l -0.02712,-0.07713 -0.307479,-0.867872 z m 0,2.1751097 L 8.672289,7.2912262 6.8908879,8.536705 Z M 8.916278,7.9780603 10.818885,13.344257 6.7325985,9.5031968 Z"
-       color="#000000"
        stop-color="#000000"
        id="path11-3" />
     <path
