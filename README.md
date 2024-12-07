@@ -43,13 +43,13 @@ _________________________________
 
 
 
-Changelog: 30.11.2024.
+Changelog: 07.12.2024.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: main.rc
+Update: apps.rc
 
 Aurorae Themes
 --------------
@@ -59,12 +59,12 @@ Update: metadata.desktop
 Plasma Theme
 ------------
 
-Update widget: radiobutton.svg
+Update widget: scrollwidget.svg
 
 Icons
 -----
 
-Added new icons: apps 48
+Update: icon-theme.cache
 
 
 
