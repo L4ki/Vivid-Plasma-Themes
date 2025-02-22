@@ -43,13 +43,13 @@ _________________________________
 
 
 
-Changelog: 15.02.2025.
+Changelog: 22.02.2025.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: styles
+Update: hacks-dark.rc
 
 Aurorae Themes
 --------------
