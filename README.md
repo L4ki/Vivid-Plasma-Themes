@@ -43,18 +43,13 @@ _________________________________
 
 
 
-Changelog: 22.02.2025.
+Changelog: 01.03.2025.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: hacks-dark.rc
-
-Aurorae Themes
---------------
-
-Update: metadata.desktop
+Update: gtk-3.0
 
 Plasma Theme
 ------------
