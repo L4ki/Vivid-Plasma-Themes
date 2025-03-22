@@ -43,13 +43,13 @@ _________________________________
 
 
 
-Changelog: 15.03.2025.
+Changelog: 22.03.2025.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: gtkrc
+Update: main.rc
 
 Plasma Theme
 ------------
