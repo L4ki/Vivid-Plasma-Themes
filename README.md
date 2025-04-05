@@ -43,13 +43,13 @@ _________________________________
 
 
 
-Changelog: 29.03.2025.
+Changelog: 05.04.2025.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: apps.rc
+Update: hacks.rc
 
 Plasma Theme
 ------------
@@ -59,8 +59,7 @@ Update: metadata.desktop
 Icons
 -----
 
-Added new icons: apps 48
-
+Added new icons: apps 24
 
 
 
