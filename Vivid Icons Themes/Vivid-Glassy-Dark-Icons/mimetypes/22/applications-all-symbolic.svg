@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="applications-all-symbolic.svg"
+   inkscape:version="1.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="14.545455"
+     inkscape:cx="8.1125"
+     inkscape:cy="11.309375"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text {
+        color:#dedede;
+      }</style>
+  <path
+     class="ColorScheme-Text"
+     fill="currentColor"
+     d="M 4.25,2 C 3.0035,2 2,3.0035 2,4.25 v 3.375 c 0,1.2465 1.0035,2.25 2.25,2.25 h 3.375 c 1.2465,0 2.25,-1.0035 2.25,-2.25 V 4.25 C 9.875,3.0035 8.8715,2 7.625,2 Z m 10.125,0 c -1.2465,0 -2.25,1.0035 -2.25,2.25 v 3.375 c 0,1.2465 1.0035,2.25 2.25,2.25 H 17.75 C 18.9965,9.875 20,8.8715 20,7.625 V 4.25 C 20,3.0035 18.9965,2 17.75,2 Z M 4.25,3.125 h 3.375 c 0.62325,0 1.125,0.50175 1.125,1.125 V 7.625 C 8.75,8.24825 8.24825,8.75 7.625,8.75 H 4.25 C 3.62675,8.75 3.125,8.24825 3.125,7.625 V 4.25 c 0,-0.62325 0.50175,-1.125 1.125,-1.125 z m 10.125,0 h 3.375 c 0.62324,0 1.125,0.50175 1.125,1.125 v 3.375 c 0,0.62325 -0.50176,1.125 -1.125,1.125 H 14.375 C 13.75176,8.75 13.25,8.24825 13.25,7.625 V 4.25 c 0,-0.62325 0.50176,-1.125 1.125,-1.125 z m -10.125,9 C 3.0035,12.125 2,13.1285 2,14.375 V 17.75 C 2,18.9965 3.0035,20 4.25,20 h 3.375 c 1.2465,0 2.25,-1.0035 2.25,-2.25 v -3.375 c 0,-1.2465 -1.0035,-2.25 -2.25,-2.25 z m 10.125,0 c -1.2465,0 -2.25,1.0035 -2.25,2.25 v 3.375 c 0,1.2465 1.0035,2.25 2.25,2.25 H 17.75 C 18.9965,20 20,18.9965 20,17.75 v -3.375 c 0,-1.2465 -1.0035,-2.25 -2.25,-2.25 z M 4.25,13.25 h 3.375 c 0.62325,0 1.125,0.50176 1.125,1.125 v 3.375 c 0,0.62324 -0.50175,1.125 -1.125,1.125 H 4.25 c -0.62325,0 -1.125,-0.50176 -1.125,-1.125 v -3.375 c 0,-0.62324 0.50175,-1.125 1.125,-1.125 z m 10.125,0 h 3.375 c 0.62324,0 1.125,0.50176 1.125,1.125 v 3.375 c 0,0.62324 -0.50176,1.125 -1.125,1.125 h -3.375 c -0.62324,0 -1.125,-0.50176 -1.125,-1.125 v -3.375 c 0,-0.62324 0.50176,-1.125 1.125,-1.125 z"
+     id="path1"
+     style="stroke-width:1.125" />
+</svg>
