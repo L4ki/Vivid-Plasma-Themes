@@ -4,7 +4,7 @@ Comment=Vivid Dark Plasma Theme by l4k1
 X-KDE-PluginInfo-Author=l4k1
 X-KDE-PluginInfo-Email=l4k1987@gmail.com
 X-KDE-PluginInfo-Name=Vivid-Dark-Plasma
-X-KDE-PluginInfo-Version=8.5
+X-KDE-PluginInfo-Version=8.6
 X-KDE-PluginInfo-Category=Plasma Theme
 X-KDE-PluginInfo-Depends=
 X-KDE-PluginInfo-Website=https://github.com/L4ki/Vivid-Plasma-Themes
@@ -15,11 +15,11 @@ X-Plasma-API=5.0
 [AdaptiveTransparency]
 enabled=true
 
-[ContrastEffect]
-enabled=false
-contrast=0.2
-intensity=0.4
-saturation=1.7
-
 [BlurBehindEffect]
 enabled=true
+
+[ContrastEffect]
+enabled=false
+contrast=0.4
+intensity=0.6
+saturation=8
