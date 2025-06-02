@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "Plasma/Theme",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Plasma Theme",
+        "ServiceTypes": [
+            "Plasma/Theme"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Vivid-Dark-Plasma",
+        "Description": "Vivid-Dark-Plasma",
+        "Id": "Vivid-Dark-Plasma",
+        "Version": "8.8",
+        "License": "GPL-3.0+",
+        "Website": "https://github.com/L4ki/Vivid-Plasma-Themes"
+    },
+    "X-Plasma-API": "5.0"
+}
