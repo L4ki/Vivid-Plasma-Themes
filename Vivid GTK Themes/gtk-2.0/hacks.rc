@@ -33,4 +33,4 @@ class "SexySpellEntry"style:highest "normal_entry"
 widget_class "*Chrom*<GtkEntry>"style "chrome_entry"
 
 # Hack to be able to match widgets in LibreOffice
-class "GtkWindow"style "toplevel_hack"
+class "GtkWindow" style "toplevel_hack"
