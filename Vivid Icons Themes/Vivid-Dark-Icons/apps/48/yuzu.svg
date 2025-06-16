@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   style="isolation:isolate"
+   viewBox="0 0 16 16"
+   width="16pt"
+   height="16pt"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="yuzu.svg"
+   inkscape:version="1.4.2 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5">
+    <linearGradient
+       id="linearGradient8"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#c83771;stop-opacity:1"
+         offset="0"
+         id="stop8" />
+      <stop
+         style="stop-color:#ffb380;stop-opacity:1"
+         offset="1"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#55ddff;stop-opacity:1"
+         offset="0"
+         id="stop6" />
+      <stop
+         style="stop-color:#0066ff;stop-opacity:1"
+         offset="1"
+         id="stop7" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5"
+       id="linearGradient7"
+       x1="0.5"
+       y1="5.7"
+       x2="6.5665745"
+       y2="5.7"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8"
+       id="linearGradient9"
+       x1="7.4334255"
+       y1="8.3"
+       x2="13.5"
+       y2="8.3"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="17.125242"
+     inkscape:cx="10.014457"
+     inkscape:cy="12.52537"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <linearGradient
+     id="_lgradient_23"
+     x1="-0.014458464"
+     y1="0.009839246"
+     x2="1.0164566"
+     y2="1.072293"
+     gradientTransform="matrix(6.0665744,0,0,10.4,7.4334254,3.1)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0%"
+       stop-opacity="1"
+       style="stop-color:rgb(249,212,35)"
+       id="stop1" />
+    <stop
+       offset="51.56237565086822%"
+       stop-opacity="1"
+       style="stop-color:rgb(255,78,80)"
+       id="stop2" />
+    <stop
+       offset="99.1304347826087%"
+       stop-opacity="1"
+       style="stop-color:rgb(138,35,135)"
+       id="stop3" />
+  </linearGradient>
+  <linearGradient
+     id="_lgradient_24"
+     x1="0"
+     y1="0.5"
+     x2="0.90748805"
+     y2="0.92007786"
+     gradientTransform="matrix(6.0665744,0,0,10.4,0.5,0.5)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0%"
+       stop-opacity="1"
+       style="stop-color:rgb(0,196,255)"
+       id="stop4" />
+    <stop
+       offset="83.88839793817618%"
+       stop-opacity="1"
+       style="stop-color:rgb(0,114,255)"
+       id="stop5" />
+  </linearGradient>
+  <g
+     id="g5"
+     transform="translate(1,1)">
+    <path
+       d="m 8.3,3.1 c 2.871894,0 5.2,2.3281064 5.2,5.2 0,2.871894 -2.328106,5.2 -5.2,5.2 H 7.4334255 V 13.42117 12.09766 4.5015106 3.1735745 3.1 Z m 0.4334255,1.328766 v 7.744957 C 10.706383,11.953277 12.198894,10.285404 12.2,8.3 12.197787,6.3154255 10.705553,4.6492128 8.7334255,4.428766 Z"
+       id="path3"
+       style="fill:url(#linearGradient9)" />
+    <path
+       d="m 5.7,0.5 c -2.8718936,0 -5.2,2.3281064 -5.2,5.2 0,2.8718936 2.3281064,5.2 5.2,5.2 H 6.5665745 V 10.82117 9.4976596 1.9015106 0.57357447 0.5 Z M 5.2665745,1.828766 V 9.5737234 C 3.293617,9.3532766 1.8011064,7.6854043 1.8,5.7 1.8022128,3.7154255 3.2944468,2.0492128 5.2665745,1.828766 Z"
+       id="path5"
+       style="fill:url(#linearGradient7)" />
+  </g>
+</svg>

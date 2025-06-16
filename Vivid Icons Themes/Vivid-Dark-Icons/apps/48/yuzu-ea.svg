@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   style="isolation:isolate"
+   viewBox="0 0 16 16"
+   width="16pt"
+   height="16pt"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="yuzu-ea.svg"
+   inkscape:version="1.4.2 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient7"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#535d6c;stop-opacity:1"
+         offset="0"
+         id="stop7" />
+      <stop
+         style="stop-color:#b7bec8;stop-opacity:1"
+         offset="1"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#2ad4ff;stop-opacity:1"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#8d5fd3;stop-opacity:1"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="linearGradient6"
+       x1="1.0665745"
+       y1="6.882465"
+       x2="7.133149"
+       y2="6.882465"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7"
+       id="linearGradient8"
+       x1="8"
+       y1="9.482465"
+       x2="14.066574"
+       y2="9.482465"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="17.125242"
+     inkscape:cx="10.802767"
+     inkscape:cy="18.65667"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <linearGradient
+     id="_lgradient_25"
+     x1="0"
+     y1="0.5"
+     x2="1"
+     y2="0.5"
+     gradientTransform="matrix(6.0665744,0,0,10.4,7.9999999,4.282465)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0%"
+       stop-opacity="1"
+       style="stop-color:rgb(117,127,154)"
+       id="stop1" />
+    <stop
+       offset="98.69565217391305%"
+       stop-opacity="1"
+       style="stop-color:rgb(215,221,232)"
+       id="stop2" />
+  </linearGradient>
+  <linearGradient
+     id="_lgradient_26"
+     x1="0"
+     y1="0.5"
+     x2="1"
+     y2="0.5"
+     gradientTransform="matrix(6.0665744,0,0,10.4,1.0665745,1.682465)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0%"
+       stop-opacity="1"
+       style="stop-color:rgb(247,242,6)"
+       id="stop3" />
+    <stop
+       offset="97.82608695652173%"
+       stop-opacity="1"
+       style="stop-color:rgb(255,187,36)"
+       id="stop4" />
+  </linearGradient>
+  <g
+     id="g4"
+     transform="translate(0.43342575,-0.182465)">
+    <path
+       d="m 8.8665745,4.282465 c 2.8718945,0 5.1999995,2.3281064 5.1999995,5.2 0,2.871894 -2.328106,5.2 -5.1999995,5.2 H 8 V 14.603635 13.280125 5.6839756 4.3560395 4.282465 Z M 9.3,5.611231 v 7.744957 C 11.272957,13.135742 12.765468,11.467869 12.766574,9.482465 12.764361,7.4978905 11.272127,5.8316778 9.3,5.611231 Z"
+       id="path2"
+       style="fill:url(#linearGradient8);fill-opacity:1" />
+    <path
+       d="m 6.2665745,1.682465 c -2.8718936,0 -5.2,2.3281064 -5.2,5.2 0,2.8718936 2.3281064,5.2 5.2,5.2 H 7.133149 V 12.003635 10.680125 3.0839756 1.7560395 1.682465 Z M 5.833149,3.011231 v 7.744957 C 3.8601915,10.535742 2.3676809,8.8678693 2.3665745,6.882465 2.3687873,4.8978905 3.8610213,3.2316778 5.833149,3.011231 Z"
+       id="path4"
+       style="fill:url(#linearGradient6)" />
+  </g>
+</svg>
