@@ -43,13 +43,13 @@ _________________________________
 
 
 
-Changelog: 23.06.2025.
+Changelog: 30.06.2025.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: hacks-dark.rc
+Update: gtk-3.0
 
 Plasma Theme
 ------------
