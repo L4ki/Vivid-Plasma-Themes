@@ -7,8 +7,8 @@
    version="1.1"
    viewBox="0 0 56 56"
    id="svg22"
-   sodipodi:docname="ubuntu-software-center.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="softwarecenter.svg"
+   inkscape:version="1.4.2 (unknown)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,10 +25,10 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="3.6875"
-     inkscape:cx="-13.288136"
+     inkscape:cx="-13.423729"
      inkscape:cy="32.135593"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -116,7 +116,7 @@
        inkscape:collect="always"
        id="linearGradient838">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#fafafa;stop-opacity:1;"
          offset="0"
          id="stop834" />
       <stop
