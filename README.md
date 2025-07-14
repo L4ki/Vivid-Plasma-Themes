@@ -43,18 +43,18 @@ _________________________________
 
 
 
-Changelog: 07.07.2025.
+Changelog: 14.07.2025.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: gtk-4.0
+Update: gtkrc
 
 Plasma Theme
 ------------
 
-Update: metadata.desktop
+Update: metadata.json
 
 Icons
 -----
