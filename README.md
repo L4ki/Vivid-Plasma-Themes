@@ -43,18 +43,18 @@ _________________________________
 
 
 
-Changelog: 11.08.2025.
+Changelog: 18.08.2025.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: styles
+Update: hacks-dark.rc
 
 Plasma Theme
 ------------
 
-Update: metadata.json
+Update: metadata.desktop
 
 Icons
 -----
