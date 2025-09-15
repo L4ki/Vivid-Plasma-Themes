@@ -41,20 +41,18 @@ Screenshot:
 
 _________________________________
 
-
-
-Changelog: 08.09.2025.
+Changelog: 15.09.2025.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: gtkrc
+Update: main.rc
 
 Plasma Theme
 ------------
 
-Update: metadata.desktop
+Update: metadata.json
 
 Icons
 -----
