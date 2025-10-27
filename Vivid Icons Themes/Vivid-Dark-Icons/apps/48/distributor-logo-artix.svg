@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   style="isolation:isolate"
+   viewBox="0 0 16 16"
+   width="16pt"
+   height="16pt"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="distributor-logo-artix.svg"
+   inkscape:version="1.4.2 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#5a9cfe;stop-opacity:1"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#3cb1c3;stop-opacity:1"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient4"
+       x1="1.5"
+       y1="14.5"
+       x2="10.401222"
+       y2="6.303287"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="11.8125"
+     inkscape:cx="21.883598"
+     inkscape:cy="18.455026"
+     inkscape:current-layer="svg2" />
+  <linearGradient
+     id="_lgradient_20"
+     x1="0"
+     y1="0.5"
+     x2="1"
+     y2="0.5"
+     gradientTransform="matrix(39.999999,0,0,39.999999,4,4)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0%"
+       stop-opacity="1"
+       style="stop-color:rgb(24,208,173)"
+       id="stop1" />
+    <stop
+       offset="90.44964029999998%"
+       stop-opacity="1"
+       style="stop-color:rgb(7,195,242)"
+       id="stop2" />
+  </linearGradient>
+  <path
+     d="M 8,1.5 5.6652,6.170575 11.70825,8.9178 Z M 5.0256,7.450425 1.5,14.5 11.9,9.95 Z m 7.65375,3.4099 -3.234725,1.6172 L 14.5,14.5 Z"
+     id="path2"
+     style="fill:url(#linearGradient4)" />
+</svg>
