@@ -41,23 +41,23 @@ Screenshot:
 
 _________________________________
 
-Changelog: 03.11.2025.
+Changelog: 10.11.2025.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: gtk-4.0
+Update: gtkrc
 
 Plasma Theme
 ------------
 
-Update: metadata.json
+Update: metadata.desktop
 
 Icons
 -----
 
-Added new icons: actions 22
+Added new icons: apps 22
 
 
 
