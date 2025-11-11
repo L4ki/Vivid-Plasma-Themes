@@ -41,7 +41,7 @@ Screenshot:
 
 _________________________________
 
-Changelog: 10.11.2025.
+Changelog: 11.11.2025.
 ---------------------
 
 GTK-Theme
@@ -57,7 +57,9 @@ Update: metadata.desktop
 Icons
 -----
 
-Added new icons: apps 22
+Added new icons: applets 48
+
+Update icons: places 32, 48
 
 
 
