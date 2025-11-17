@@ -41,25 +41,24 @@ Screenshot:
 
 _________________________________
 
-Changelog: 11.11.2025.
+Changelog: 17.11.2025.
 ---------------------
 
 GTK-Theme
 ----------
 
-Update: gtkrc
+Update: main.rc
 
 Plasma Theme
 ------------
 
-Update: metadata.desktop
+Update: metadata.json
 
 Icons
 -----
 
-Added new icons: applets 48
+Added new icons: apps 24
 
-Update icons: places 32, 48
 
 
 
