@@ -41,7 +41,7 @@ Screenshot:
 
 _________________________________
 
-Changelog: 17.11.2025.
+Changelog: 24.11.2025.
 ---------------------
 
 GTK-Theme
@@ -57,7 +57,7 @@ Update: metadata.json
 Icons
 -----
 
-Added new icons: apps 24
+Added new icons: apps 48
 
 
 
