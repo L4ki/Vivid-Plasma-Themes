@@ -47,12 +47,12 @@ Changelog: 24.11.2025.
 GTK-Theme
 ----------
 
-Update: main.rc
+Update: apps.rc
 
 Plasma Theme
 ------------
 
-Update: metadata.json
+Update: metadata.desktop
 
 Icons
 -----
